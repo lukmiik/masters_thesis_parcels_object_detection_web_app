@@ -1,0 +1,586 @@
+{
+  "video_3.mp4": {
+    "roi": [
+      [
+        48,
+        1070
+      ],
+      [
+        948,
+        127
+      ],
+      [
+        1190,
+        148
+      ],
+      [
+        1137,
+        415
+      ],
+      [
+        1526,
+        177
+      ],
+      [
+        1785,
+        237
+      ],
+      [
+        1396,
+        1075
+      ]
+    ],
+    "canvas": {
+      "version": "4.4.0",
+      "objects": [
+        {
+          "type": "path",
+          "version": "4.4.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 382,
+          "top": 250.5,
+          "width": 724,
+          "height": 395,
+          "fill": "rgba(255, 0, 0, 0.3)",
+          "stroke": "red",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "path": [
+            [
+              "M",
+              20,
+              446
+            ],
+            [
+              "L",
+              395,
+              53
+            ],
+            [
+              "L",
+              496,
+              62
+            ],
+            [
+              "L",
+              474,
+              173
+            ],
+            [
+              "L",
+              636,
+              74
+            ],
+            [
+              "L",
+              744,
+              99
+            ],
+            [
+              "L",
+              582,
+              448
+            ],
+            [
+              "z"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "video_4.mp4": {
+    "roi": [
+      [
+        1504,
+        648
+      ],
+      [
+        1176,
+        566
+      ],
+      [
+        4,
+        732
+      ],
+      [
+        2,
+        1068
+      ],
+      [
+        784,
+        1072
+      ]
+    ],
+    "canvas": {
+      "version": "4.4.0",
+      "objects": [
+        {
+          "type": "circle",
+          "version": "4.4.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 627,
+          "top": 270,
+          "width": 4,
+          "height": 4,
+          "fill": "red",
+          "stroke": "red",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "radius": 2,
+          "startAngle": 0,
+          "endAngle": 6.283185307179586
+        },
+        {
+          "type": "line",
+          "version": "4.4.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 327,
+          "top": 447,
+          "width": 0,
+          "height": 0,
+          "fill": "red",
+          "stroke": "red",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "x1": 0,
+          "x2": 0,
+          "y1": 0,
+          "y2": 0
+        },
+        {
+          "type": "path",
+          "version": "4.4.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 314,
+          "top": 341.5,
+          "width": 626,
+          "height": 211,
+          "fill": "rgba(255, 0, 0, 0.3)",
+          "stroke": "red",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "path": [
+            [
+              "M",
+              627,
+              270
+            ],
+            [
+              "L",
+              490,
+              236
+            ],
+            [
+              "L",
+              2,
+              305
+            ],
+            [
+              "L",
+              1,
+              445
+            ],
+            [
+              "L",
+              327,
+              447
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "video_5.mp4": {
+    "roi": [
+      [
+        720,
+        554
+      ],
+      [
+        501,
+        544
+      ],
+      [
+        2,
+        777
+      ],
+      [
+        2,
+        1072
+      ],
+      [
+        1912,
+        1075
+      ],
+      [
+        1908,
+        878
+      ],
+      [
+        1308,
+        602
+      ],
+      [
+        1022,
+        604
+      ],
+      [
+        1257,
+        1065
+      ],
+      [
+        194,
+        1058
+      ]
+    ],
+    "canvas": {
+      "version": "4.4.0",
+      "objects": [
+        {
+          "type": "path",
+          "version": "4.4.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 399,
+          "top": 337.5,
+          "width": 796,
+          "height": 221,
+          "fill": "rgba(255, 0, 0, 0.3)",
+          "stroke": "red",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "path": [
+            [
+              "M",
+              300,
+              231
+            ],
+            [
+              "L",
+              209,
+              227
+            ],
+            [
+              "L",
+              1,
+              324
+            ],
+            [
+              "L",
+              1,
+              447
+            ],
+            [
+              "L",
+              797,
+              448
+            ],
+            [
+              "L",
+              795,
+              366
+            ],
+            [
+              "L",
+              545,
+              251
+            ],
+            [
+              "L",
+              426,
+              252
+            ],
+            [
+              "L",
+              524,
+              444
+            ],
+            [
+              "L",
+              81,
+              441
+            ],
+            [
+              "z"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "video_1.mp4": {
+    "roi": [
+      [
+        1216,
+        304
+      ],
+      [
+        1080,
+        314
+      ],
+      [
+        1185,
+        902
+      ],
+      [
+        1562,
+        904
+      ]
+    ],
+    "canvas": {
+      "version": "4.4.0",
+      "objects": [
+        {
+          "type": "path",
+          "version": "4.4.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 550.5,
+          "top": 252,
+          "width": 201,
+          "height": 250,
+          "fill": "rgba(255, 0, 0, 0.3)",
+          "stroke": "red",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "path": [
+            [
+              "M",
+              507,
+              127
+            ],
+            [
+              "L",
+              450,
+              131
+            ],
+            [
+              "L",
+              494,
+              376
+            ],
+            [
+              "L",
+              651,
+              377
+            ],
+            [
+              "z"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "video_2.mp4": {
+    "roi": [
+      [
+        393,
+        1075
+      ],
+      [
+        535,
+        456
+      ],
+      [
+        1272,
+        467
+      ],
+      [
+        1272,
+        1071
+      ],
+      [
+        393,
+        1075
+      ]
+    ],
+    "canvas": {
+      "version": "4.4.0",
+      "objects": [
+        {
+          "type": "path",
+          "version": "4.4.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 522.5,
+          "top": 480,
+          "width": 551,
+          "height": 388,
+          "fill": "rgba(255, 0, 0, 0.3)",
+          "stroke": "red",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "miter",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "path": [
+            [
+              "M",
+              247,
+              674
+            ],
+            [
+              "L",
+              336,
+              286
+            ],
+            [
+              "L",
+              798,
+              293
+            ],
+            [
+              "L",
+              798,
+              672
+            ],
+            [
+              "L",
+              247.0,
+              674.0
+            ],
+            [
+              "z"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

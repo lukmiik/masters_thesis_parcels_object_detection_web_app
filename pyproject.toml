@@ -1,0 +1,74 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "masters-app-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "notebook>=7.5.2",
+    "roboflow>=1.2.11",
+    "supervision>=0.27.0",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+    "ultralytics>=8.3.251",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.36.0,<1.50.0",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "matplotlib>=3.10.8",
+    "pillow>=7.1.0",
+    "tqdm>=4.67.1",
+    "tabulate>=0.9.0",
+    "rfdetr>=1.3.0",
+    "transformers<5.0.0",
+    "numpy>=2.0,<2.4",
+    "tensorboard>=2.20.0",
+    "av>=14.0.0",
+    "streamlit-drawable-canvas-fix>=0.9.8",
+    "standard-imghdr>=3.13.0",
+    "trackers>=2.1.0",
+    "papermill>=2.6.0",
+    "torchmetrics>=1.8.2",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.14",
+    "ty>=0.0.14",
+]
+
+[tool.ruff]
+line-length = 79
+extend-exclude = ["training_notebooks", "README.md"]
+
+[tool.ty]
+[tool.ty.src]
+exclude = ["training_notebooks"]
+
+[tool.ty.analysis]
+allowed-unresolved-imports = ["ultralytics"]
+
+[tool.ruff.lint]
+select = [
+    # pycodestyle
+    "E",
+    # Pyflakes
+    "F",
+    # pyupgrade
+    "UP",
+    # flake8-bugbear
+    "B",
+    # flake8-simplify
+    "SIM",
+    # isort
+    "I",
+]
+extend-select = ["E501"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

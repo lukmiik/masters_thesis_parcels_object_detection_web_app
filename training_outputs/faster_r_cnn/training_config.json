@@ -1,0 +1,15 @@
+{
+  "dataset": "package_sorting",
+  "num_classes": 4,
+  "epochs": 8,
+  "batch_size": 2,
+  "learning_rate": 0.005,
+  "momentum": 0.9,
+  "weight_decay": 0.0005,
+  "best_val_loss": 0.5876027322260708,
+  "categories": {
+    "0": "packages",
+    "1": "box",
+    "2": "mailer"
+  }
+}

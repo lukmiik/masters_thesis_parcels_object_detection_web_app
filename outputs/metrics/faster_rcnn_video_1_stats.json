@@ -1,0 +1,7889 @@
+{
+  "model": "fasterrcnn",
+  "dataset": "package_sorting",
+  "video_file": "video_1.mp4",
+  "output_file": "faster_rcnn_video_1.mp4",
+  "total_frames": 92,
+  "video_fps": 30.0,
+  "avg_inference_fps": 66.31,
+  "processing_time_seconds": 2.52,
+  "avg_inference_time_ms": 15.08,
+  "per_frame_stats": [
+    {
+      "frame_id": 0,
+      "timestamp_ms": 0.0,
+      "inference_time_ms": 57.31,
+      "num_detections": 8,
+      "class_counts": {
+        "mailer": 7,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.382,
+        "box": 0.309
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.563,
+          "bbox": [
+            1306.1,
+            645.1,
+            1363.2,
+            697.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.412,
+          "bbox": [
+            1200.6,
+            441.3,
+            1258.1,
+            468.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.403,
+          "bbox": [
+            1204.1,
+            588.5,
+            1258.9,
+            611.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.381,
+          "bbox": [
+            1212.0,
+            439.1,
+            1257.4,
+            457.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.351,
+          "bbox": [
+            1215.3,
+            585.4,
+            1256.4,
+            604.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.309,
+          "bbox": [
+            1304.4,
+            648.6,
+            1360.6,
+            690.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.299,
+          "bbox": [
+            1204.8,
+            573.3,
+            1261.6,
+            617.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.264,
+          "bbox": [
+            1197.2,
+            416.1,
+            1257.7,
+            455.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 1,
+      "timestamp_ms": 33.333333333333336,
+      "inference_time_ms": 14.72,
+      "num_detections": 12,
+      "class_counts": {
+        "mailer": 11,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.352,
+        "box": 0.334
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.542,
+          "bbox": [
+            1304.2,
+            640.1,
+            1360.6,
+            690.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.443,
+          "bbox": [
+            1310.7,
+            646.3,
+            1356.1,
+            676.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.411,
+          "bbox": [
+            1199.2,
+            587.6,
+            1255.3,
+            610.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.4,
+          "bbox": [
+            1199.8,
+            427.8,
+            1258.5,
+            466.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.388,
+          "bbox": [
+            1211.5,
+            437.5,
+            1257.3,
+            454.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.334,
+          "bbox": [
+            1302.6,
+            642.1,
+            1357.5,
+            680.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.318,
+          "bbox": [
+            1214.1,
+            583.0,
+            1254.3,
+            600.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.296,
+          "bbox": [
+            1208.8,
+            422.5,
+            1247.5,
+            438.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.279,
+          "bbox": [
+            1202.0,
+            443.3,
+            1249.7,
+            468.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.278,
+          "bbox": [
+            1206.0,
+            417.3,
+            1250.7,
+            434.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.272,
+          "bbox": [
+            1204.6,
+            569.0,
+            1261.2,
+            611.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.251,
+          "bbox": [
+            1195.1,
+            412.9,
+            1256.1,
+            450.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 2,
+      "timestamp_ms": 66.66666666666667,
+      "inference_time_ms": 14.32,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.397,
+        "box": 0.326
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.546,
+          "bbox": [
+            1303.0,
+            633.4,
+            1358.8,
+            681.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.543,
+          "bbox": [
+            1199.2,
+            586.8,
+            1251.1,
+            608.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.454,
+          "bbox": [
+            1197.7,
+            425.3,
+            1255.6,
+            463.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.441,
+          "bbox": [
+            1196.4,
+            573.2,
+            1253.1,
+            616.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.385,
+          "bbox": [
+            1208.5,
+            584.2,
+            1252.2,
+            601.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.373,
+          "bbox": [
+            1209.4,
+            435.2,
+            1257.1,
+            452.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.346,
+          "bbox": [
+            1205.9,
+            422.2,
+            1246.8,
+            439.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.326,
+          "bbox": [
+            1300.5,
+            636.7,
+            1354.6,
+            677.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.314,
+          "bbox": [
+            1285.3,
+            787.1,
+            1346.2,
+            827.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.308,
+          "bbox": [
+            1194.6,
+            413.3,
+            1254.8,
+            450.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.259,
+          "bbox": [
+            1204.1,
+            413.3,
+            1244.9,
+            432.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 3,
+      "timestamp_ms": 100.0,
+      "inference_time_ms": 15.08,
+      "num_detections": 13,
+      "class_counts": {
+        "mailer": 12,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.405,
+        "box": 0.32
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.568,
+          "bbox": [
+            1286.9,
+            776.5,
+            1345.5,
+            809.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.522,
+          "bbox": [
+            1198.3,
+            582.5,
+            1251.6,
+            605.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.52,
+          "bbox": [
+            1299.9,
+            625.0,
+            1350.7,
+            676.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.469,
+          "bbox": [
+            1196.5,
+            423.6,
+            1254.1,
+            461.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.441,
+          "bbox": [
+            1194.4,
+            567.2,
+            1253.2,
+            613.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.38,
+          "bbox": [
+            1304.7,
+            630.5,
+            1346.1,
+            661.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.356,
+          "bbox": [
+            1202.3,
+            415.6,
+            1248.5,
+            433.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.338,
+          "bbox": [
+            1208.6,
+            579.5,
+            1252.1,
+            597.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.333,
+          "bbox": [
+            1202.5,
+            436.9,
+            1252.5,
+            458.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.332,
+          "bbox": [
+            1191.0,
+            588.2,
+            1247.2,
+            614.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.328,
+          "bbox": [
+            1193.0,
+            411.1,
+            1253.3,
+            449.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.32,
+          "bbox": [
+            1294.3,
+            629.6,
+            1349.5,
+            673.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.266,
+          "bbox": [
+            1210.0,
+            431.5,
+            1256.5,
+            450.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "timestamp_ms": 133.33333333333334,
+      "inference_time_ms": 12.66,
+      "num_detections": 13,
+      "class_counts": {
+        "mailer": 12,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.416,
+        "box": 0.369
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.574,
+          "bbox": [
+            1197.9,
+            577.9,
+            1251.1,
+            600.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.558,
+          "bbox": [
+            1283.1,
+            768.3,
+            1346.6,
+            812.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.536,
+          "bbox": [
+            1297.2,
+            619.0,
+            1350.4,
+            672.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.511,
+          "bbox": [
+            1193.8,
+            564.1,
+            1252.9,
+            607.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.46,
+          "bbox": [
+            1196.2,
+            422.7,
+            1252.9,
+            459.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.397,
+          "bbox": [
+            1190.9,
+            583.0,
+            1248.0,
+            609.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.376,
+          "bbox": [
+            1203.3,
+            419.1,
+            1245.4,
+            438.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.369,
+          "bbox": [
+            1295.8,
+            625.6,
+            1347.5,
+            666.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.366,
+          "bbox": [
+            1207.1,
+            575.1,
+            1251.5,
+            592.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.344,
+          "bbox": [
+            1200.2,
+            411.2,
+            1245.6,
+            432.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.335,
+          "bbox": [
+            1302.3,
+            626.5,
+            1345.4,
+            655.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.277,
+          "bbox": [
+            1186.1,
+            411.6,
+            1255.4,
+            445.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.259,
+          "bbox": [
+            1192.5,
+            579.5,
+            1229.8,
+            598.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "timestamp_ms": 166.66666666666666,
+      "inference_time_ms": 12.81,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.371,
+        "box": 0.27
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.578,
+          "bbox": [
+            1292.7,
+            612.8,
+            1346.3,
+            665.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.517,
+          "bbox": [
+            1310.0,
+            851.0,
+            1383.8,
+            893.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.416,
+          "bbox": [
+            1199.2,
+            575.2,
+            1247.7,
+            594.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.378,
+          "bbox": [
+            1187.0,
+            560.8,
+            1246.8,
+            601.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.346,
+          "bbox": [
+            1198.1,
+            423.6,
+            1254.3,
+            459.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.332,
+          "bbox": [
+            1202.7,
+            413.4,
+            1248.7,
+            432.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.316,
+          "bbox": [
+            1195.4,
+            410.6,
+            1252.0,
+            449.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.29,
+          "bbox": [
+            1203.4,
+            545.3,
+            1251.7,
+            564.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1197.6,
+            580.6,
+            1249.7,
+            603.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.27,
+          "bbox": [
+            1290.7,
+            618.5,
+            1349.2,
+            662.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.266,
+          "bbox": [
+            1298.4,
+            621.8,
+            1343.0,
+            649.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "timestamp_ms": 200.0,
+      "inference_time_ms": 12.69,
+      "num_detections": 9,
+      "class_counts": {
+        "mailer": 8,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.384,
+        "box": 0.273
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.561,
+          "bbox": [
+            1307.0,
+            843.5,
+            1378.7,
+            890.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.473,
+          "bbox": [
+            1290.5,
+            614.8,
+            1344.5,
+            653.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.389,
+          "bbox": [
+            1196.8,
+            422.2,
+            1255.1,
+            456.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.377,
+          "bbox": [
+            1201.8,
+            414.6,
+            1247.7,
+            433.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.347,
+          "bbox": [
+            1199.4,
+            544.7,
+            1243.9,
+            565.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.347,
+          "bbox": [
+            1192.8,
+            410.6,
+            1251.6,
+            447.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.332,
+          "bbox": [
+            1290.0,
+            615.2,
+            1329.7,
+            641.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.273,
+          "bbox": [
+            1290.8,
+            614.4,
+            1346.7,
+            653.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.251,
+          "bbox": [
+            1199.6,
+            536.9,
+            1248.6,
+            577.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "timestamp_ms": 233.33333333333334,
+      "inference_time_ms": 12.88,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.425,
+        "box": 0.289
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.846,
+          "bbox": [
+            1302.2,
+            828.2,
+            1372.8,
+            883.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.555,
+          "bbox": [
+            1290.8,
+            606.5,
+            1343.3,
+            647.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.4,
+          "bbox": [
+            1193.1,
+            409.6,
+            1249.3,
+            448.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.399,
+          "bbox": [
+            1286.2,
+            608.9,
+            1330.4,
+            634.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.385,
+          "bbox": [
+            1197.6,
+            410.5,
+            1244.8,
+            432.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.385,
+          "bbox": [
+            1201.0,
+            550.6,
+            1243.0,
+            568.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.366,
+          "bbox": [
+            1202.4,
+            418.0,
+            1244.0,
+            437.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.358,
+          "bbox": [
+            1195.3,
+            421.8,
+            1254.3,
+            457.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.289,
+          "bbox": [
+            1282.0,
+            605.4,
+            1345.1,
+            647.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.287,
+          "bbox": [
+            1185.0,
+            557.1,
+            1243.5,
+            594.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.27,
+          "bbox": [
+            1292.9,
+            602.3,
+            1339.2,
+            627.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "timestamp_ms": 266.6666666666667,
+      "inference_time_ms": 12.74,
+      "num_detections": 12,
+      "class_counts": {
+        "mailer": 11,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.475,
+        "box": 0.273
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.839,
+          "bbox": [
+            1302.8,
+            820.9,
+            1369.0,
+            870.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.647,
+          "bbox": [
+            1291.0,
+            601.9,
+            1340.2,
+            629.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.615,
+          "bbox": [
+            1276.9,
+            734.0,
+            1333.5,
+            766.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.576,
+          "bbox": [
+            1281.7,
+            597.8,
+            1341.0,
+            645.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.484,
+          "bbox": [
+            1197.4,
+            543.0,
+            1248.7,
+            566.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.406,
+          "bbox": [
+            1190.9,
+            408.2,
+            1247.3,
+            447.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.399,
+          "bbox": [
+            1194.8,
+            410.1,
+            1242.7,
+            432.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.365,
+          "bbox": [
+            1200.8,
+            417.4,
+            1242.0,
+            436.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.329,
+          "bbox": [
+            1196.9,
+            530.4,
+            1251.4,
+            575.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.299,
+          "bbox": [
+            1195.0,
+            421.7,
+            1254.7,
+            458.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.273,
+          "bbox": [
+            1280.4,
+            599.4,
+            1341.3,
+            632.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.266,
+          "bbox": [
+            1186.6,
+            406.3,
+            1229.7,
+            426.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "timestamp_ms": 300.0,
+      "inference_time_ms": 13.93,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.504,
+        "box": 0.317
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.769,
+          "bbox": [
+            1296.8,
+            810.4,
+            1367.2,
+            859.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.641,
+          "bbox": [
+            1284.6,
+            594.3,
+            1340.5,
+            636.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.633,
+          "bbox": [
+            1268.6,
+            724.5,
+            1328.0,
+            767.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.576,
+          "bbox": [
+            1277.3,
+            728.2,
+            1319.3,
+            755.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.56,
+          "bbox": [
+            1290.6,
+            599.2,
+            1333.0,
+            626.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.531,
+          "bbox": [
+            1195.0,
+            542.9,
+            1247.4,
+            565.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.38,
+          "bbox": [
+            1195.6,
+            409.4,
+            1241.5,
+            431.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.34,
+          "bbox": [
+            1191.6,
+            404.7,
+            1245.5,
+            443.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.32,
+          "bbox": [
+            1183.4,
+            541.7,
+            1244.1,
+            581.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.317,
+          "bbox": [
+            1280.4,
+            595.4,
+            1335.6,
+            623.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.29,
+          "bbox": [
+            1186.8,
+            404.4,
+            1227.1,
+            424.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "timestamp_ms": 333.3333333333333,
+      "inference_time_ms": 12.24,
+      "num_detections": 10,
+      "class_counts": {
+        "mailer": 9,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.482,
+        "box": 0.29
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.7,
+          "bbox": [
+            1294.2,
+            803.4,
+            1363.8,
+            850.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.608,
+          "bbox": [
+            1283.3,
+            588.9,
+            1340.3,
+            630.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.573,
+          "bbox": [
+            1265.9,
+            721.3,
+            1322.4,
+            753.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.538,
+          "bbox": [
+            1194.1,
+            542.7,
+            1245.6,
+            564.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.467,
+          "bbox": [
+            1282.5,
+            591.7,
+            1330.3,
+            616.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.393,
+          "bbox": [
+            1194.3,
+            409.5,
+            1240.1,
+            431.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.388,
+          "bbox": [
+            1182.6,
+            404.6,
+            1247.2,
+            438.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.356,
+          "bbox": [
+            1183.5,
+            539.8,
+            1243.8,
+            578.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.318,
+          "bbox": [
+            1185.5,
+            401.6,
+            1228.5,
+            424.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.29,
+          "bbox": [
+            1281.5,
+            590.8,
+            1330.3,
+            617.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "timestamp_ms": 366.66666666666663,
+      "inference_time_ms": 12.25,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.475,
+        "box": 0.263
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.786,
+          "bbox": [
+            1289.2,
+            794.4,
+            1364.7,
+            840.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.664,
+          "bbox": [
+            1282.1,
+            582.0,
+            1334.9,
+            628.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.61,
+          "bbox": [
+            1263.6,
+            710.9,
+            1319.7,
+            744.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.513,
+          "bbox": [
+            1194.7,
+            540.9,
+            1244.7,
+            561.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.416,
+          "bbox": [
+            1194.0,
+            524.3,
+            1248.4,
+            565.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.396,
+          "bbox": [
+            1194.0,
+            409.3,
+            1239.3,
+            431.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.396,
+          "bbox": [
+            1190.9,
+            538.9,
+            1226.2,
+            558.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.382,
+          "bbox": [
+            1189.9,
+            403.0,
+            1242.7,
+            442.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.327,
+          "bbox": [
+            1185.6,
+            401.4,
+            1228.3,
+            423.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.263,
+          "bbox": [
+            1280.4,
+            586.8,
+            1329.6,
+            614.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.263,
+          "bbox": [
+            1183.4,
+            544.0,
+            1239.7,
+            568.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "timestamp_ms": 400.0,
+      "inference_time_ms": 12.56,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.465,
+        "box": 0.272
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.819,
+          "bbox": [
+            1285.5,
+            779.3,
+            1361.6,
+            826.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.646,
+          "bbox": [
+            1277.6,
+            576.5,
+            1333.0,
+            624.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.527,
+          "bbox": [
+            1283.9,
+            586.3,
+            1329.9,
+            613.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.499,
+          "bbox": [
+            1260.9,
+            704.0,
+            1318.4,
+            734.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.399,
+          "bbox": [
+            1195.9,
+            522.0,
+            1250.0,
+            561.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.397,
+          "bbox": [
+            1179.5,
+            400.4,
+            1240.2,
+            431.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.364,
+          "bbox": [
+            1193.0,
+            541.0,
+            1244.4,
+            560.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.358,
+          "bbox": [
+            1194.9,
+            409.2,
+            1234.4,
+            428.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.353,
+          "bbox": [
+            1186.2,
+            398.8,
+            1227.7,
+            422.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.289,
+          "bbox": [
+            1191.0,
+            535.3,
+            1223.4,
+            553.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.272,
+          "bbox": [
+            1278.8,
+            582.2,
+            1327.6,
+            611.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "timestamp_ms": 433.33333333333337,
+      "inference_time_ms": 12.31,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.418,
+        "box": 0.263
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.782,
+          "bbox": [
+            1280.5,
+            770.9,
+            1353.4,
+            816.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.566,
+          "bbox": [
+            1272.2,
+            578.7,
+            1327.6,
+            610.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.491,
+          "bbox": [
+            1266.1,
+            695.9,
+            1315.8,
+            723.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.405,
+          "bbox": [
+            1197.2,
+            520.8,
+            1251.6,
+            560.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.382,
+          "bbox": [
+            1186.9,
+            397.8,
+            1225.1,
+            418.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.364,
+          "bbox": [
+            1180.6,
+            399.6,
+            1236.4,
+            429.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.328,
+          "bbox": [
+            1195.3,
+            408.0,
+            1232.8,
+            426.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.303,
+          "bbox": [
+            1277.6,
+            566.4,
+            1314.0,
+            581.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.298,
+          "bbox": [
+            1206.3,
+            510.7,
+            1242.3,
+            524.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.263,
+          "bbox": [
+            1270.7,
+            577.9,
+            1327.4,
+            611.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.259,
+          "bbox": [
+            1182.3,
+            383.4,
+            1212.7,
+            392.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "timestamp_ms": 466.6666666666667,
+      "inference_time_ms": 12.38,
+      "num_detections": 13,
+      "class_counts": {
+        "mailer": 12,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.421,
+        "box": 0.266
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.857,
+          "bbox": [
+            1278.0,
+            761.4,
+            1349.2,
+            809.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.605,
+          "bbox": [
+            1263.0,
+            687.2,
+            1313.2,
+            717.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.551,
+          "bbox": [
+            1273.1,
+            572.7,
+            1322.9,
+            604.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.431,
+          "bbox": [
+            1282.3,
+            568.5,
+            1317.6,
+            585.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.398,
+          "bbox": [
+            1205.4,
+            510.7,
+            1243.2,
+            527.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.361,
+          "bbox": [
+            1186.2,
+            394.9,
+            1224.8,
+            415.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.354,
+          "bbox": [
+            1203.1,
+            503.5,
+            1244.1,
+            522.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.342,
+          "bbox": [
+            1179.9,
+            398.2,
+            1233.4,
+            424.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.331,
+          "bbox": [
+            1202.5,
+            504.5,
+            1251.9,
+            538.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.284,
+          "bbox": [
+            1196.3,
+            407.1,
+            1235.3,
+            425.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.278,
+          "bbox": [
+            1275.4,
+            562.2,
+            1316.5,
+            581.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.266,
+          "bbox": [
+            1270.3,
+            571.9,
+            1321.9,
+            604.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.263,
+          "bbox": [
+            1182.2,
+            382.9,
+            1213.4,
+            393.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "timestamp_ms": 500.0,
+      "inference_time_ms": 12.86,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.434,
+        "box": 0.299
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.819,
+          "bbox": [
+            1274.7,
+            759.8,
+            1343.3,
+            800.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.539,
+          "bbox": [
+            1271.5,
+            562.6,
+            1322.4,
+            608.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.527,
+          "bbox": [
+            1278.7,
+            563.0,
+            1319.4,
+            582.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.498,
+          "bbox": [
+            1255.3,
+            680.7,
+            1309.4,
+            712.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.372,
+          "bbox": [
+            1185.0,
+            391.4,
+            1224.9,
+            410.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.356,
+          "bbox": [
+            1179.5,
+            395.6,
+            1232.8,
+            420.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.354,
+          "bbox": [
+            1207.0,
+            507.5,
+            1244.5,
+            524.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.319,
+          "bbox": [
+            1204.5,
+            500.5,
+            1248.7,
+            519.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.299,
+          "bbox": [
+            1271.9,
+            566.5,
+            1322.3,
+            597.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.29,
+          "bbox": [
+            1182.4,
+            382.4,
+            1217.1,
+            394.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.269,
+          "bbox": [
+            1202.4,
+            498.3,
+            1252.7,
+            533.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "timestamp_ms": 533.3333333333334,
+      "inference_time_ms": 12.48,
+      "num_detections": 16,
+      "class_counts": {
+        "mailer": 13,
+        "box": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.382,
+        "box": 0.315
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.854,
+          "bbox": [
+            1268.2,
+            745.1,
+            1342.7,
+            789.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.467,
+          "bbox": [
+            1270.7,
+            556.7,
+            1321.7,
+            602.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.467,
+          "bbox": [
+            1278.4,
+            559.0,
+            1319.7,
+            579.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.412,
+          "bbox": [
+            1274.0,
+            554.0,
+            1308.8,
+            570.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.373,
+          "bbox": [
+            1183.3,
+            388.9,
+            1223.0,
+            407.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.361,
+          "bbox": [
+            1270.5,
+            560.9,
+            1320.5,
+            592.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.352,
+          "bbox": [
+            1178.0,
+            392.7,
+            1226.7,
+            415.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.331,
+          "bbox": [
+            1181.1,
+            382.1,
+            1216.5,
+            395.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.312,
+          "bbox": [
+            1277.4,
+            558.7,
+            1319.5,
+            579.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.295,
+          "bbox": [
+            1208.5,
+            507.7,
+            1245.7,
+            524.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.292,
+          "bbox": [
+            1252.8,
+            677.8,
+            1303.4,
+            706.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.29,
+          "bbox": [
+            1276.5,
+            736.9,
+            1335.1,
+            762.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.284,
+          "bbox": [
+            1204.6,
+            501.6,
+            1245.2,
+            519.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.283,
+          "bbox": [
+            1169.6,
+            376.8,
+            1213.4,
+            393.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.271,
+          "bbox": [
+            1273.2,
+            553.7,
+            1309.2,
+            570.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.264,
+          "bbox": [
+            1182.6,
+            377.2,
+            1215.7,
+            388.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "timestamp_ms": 566.6666666666666,
+      "inference_time_ms": 12.31,
+      "num_detections": 14,
+      "class_counts": {
+        "mailer": 11,
+        "box": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.386,
+        "box": 0.307
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.801,
+          "bbox": [
+            1269.7,
+            735.6,
+            1335.5,
+            767.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.482,
+          "bbox": [
+            1271.6,
+            551.5,
+            1320.9,
+            577.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.455,
+          "bbox": [
+            1272.3,
+            550.0,
+            1310.2,
+            568.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.408,
+          "bbox": [
+            1182.3,
+            385.5,
+            1223.8,
+            403.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.373,
+          "bbox": [
+            1179.8,
+            390.3,
+            1229.5,
+            413.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.367,
+          "bbox": [
+            1178.8,
+            379.1,
+            1217.6,
+            393.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.352,
+          "bbox": [
+            1274.6,
+            555.6,
+            1319.7,
+            580.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.296,
+          "bbox": [
+            1271.5,
+            549.8,
+            1310.2,
+            568.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.289,
+          "bbox": [
+            1208.9,
+            508.1,
+            1247.5,
+            524.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.28,
+          "bbox": [
+            1160.8,
+            375.7,
+            1221.3,
+            409.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.275,
+          "bbox": [
+            1269.1,
+            549.1,
+            1321.5,
+            598.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.273,
+          "bbox": [
+            1176.0,
+            373.5,
+            1219.1,
+            388.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.264,
+          "bbox": [
+            1249.2,
+            668.9,
+            1302.4,
+            698.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.255,
+          "bbox": [
+            1206.9,
+            500.5,
+            1251.6,
+            518.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "timestamp_ms": 600.0,
+      "inference_time_ms": 12.43,
+      "num_detections": 11,
+      "class_counts": {
+        "mailer": 10,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.364,
+        "box": 0.311
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.682,
+          "bbox": [
+            1267.6,
+            729.0,
+            1329.9,
+            763.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.5,
+          "bbox": [
+            1270.4,
+            546.8,
+            1318.9,
+            575.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.405,
+          "bbox": [
+            1182.5,
+            385.4,
+            1224.1,
+            403.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.368,
+          "bbox": [
+            1180.0,
+            390.3,
+            1229.6,
+            414.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.348,
+          "bbox": [
+            1179.2,
+            377.9,
+            1217.9,
+            392.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.315,
+          "bbox": [
+            1282.5,
+            552.5,
+            1314.5,
+            573.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.311,
+          "bbox": [
+            1269.3,
+            547.6,
+            1317.4,
+            575.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.265,
+          "bbox": [
+            1161.0,
+            373.8,
+            1222.1,
+            409.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.255,
+          "bbox": [
+            1176.2,
+            372.9,
+            1218.8,
+            387.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.25,
+          "bbox": [
+            1175.9,
+            375.7,
+            1230.6,
+            422.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.25,
+          "bbox": [
+            1246.2,
+            656.0,
+            1303.5,
+            691.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "timestamp_ms": 633.3333333333333,
+      "inference_time_ms": 12.4,
+      "num_detections": 12,
+      "class_counts": {
+        "mailer": 11,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.387,
+        "box": 0.291
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.76,
+          "bbox": [
+            1263.0,
+            720.4,
+            1328.7,
+            757.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.582,
+          "bbox": [
+            1261.0,
+            715.0,
+            1320.2,
+            743.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.462,
+          "bbox": [
+            1274.5,
+            545.0,
+            1312.3,
+            567.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.384,
+          "bbox": [
+            1182.1,
+            385.1,
+            1223.5,
+            402.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.346,
+          "bbox": [
+            1179.1,
+            377.0,
+            1217.1,
+            391.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.339,
+          "bbox": [
+            1179.7,
+            389.4,
+            1229.0,
+            413.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.303,
+          "bbox": [
+            1266.5,
+            539.7,
+            1318.4,
+            579.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.291,
+          "bbox": [
+            1271.5,
+            545.0,
+            1308.8,
+            564.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.285,
+          "bbox": [
+            1246.5,
+            654.8,
+            1306.2,
+            683.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.281,
+          "bbox": [
+            1176.0,
+            372.4,
+            1218.1,
+            387.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.262,
+          "bbox": [
+            1228.9,
+            498.5,
+            1263.0,
+            512.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.253,
+          "bbox": [
+            1160.3,
+            372.0,
+            1220.6,
+            408.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "timestamp_ms": 666.6666666666666,
+      "inference_time_ms": 12.59,
+      "num_detections": 10,
+      "class_counts": {
+        "mailer": 10
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.435
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.754,
+          "bbox": [
+            1259.0,
+            712.2,
+            1325.1,
+            749.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.601,
+          "bbox": [
+            1241.4,
+            646.8,
+            1303.4,
+            680.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.562,
+          "bbox": [
+            1248.6,
+            643.4,
+            1299.0,
+            667.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.443,
+          "bbox": [
+            1265.6,
+            708.9,
+            1316.4,
+            737.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.384,
+          "bbox": [
+            1231.0,
+            498.2,
+            1269.4,
+            515.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.36,
+          "bbox": [
+            1273.5,
+            541.6,
+            1307.2,
+            563.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.344,
+          "bbox": [
+            1182.5,
+            386.4,
+            1222.0,
+            403.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.323,
+          "bbox": [
+            1179.9,
+            376.5,
+            1216.4,
+            390.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.302,
+          "bbox": [
+            1179.6,
+            390.2,
+            1227.1,
+            413.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.276,
+          "bbox": [
+            1176.6,
+            371.8,
+            1217.5,
+            386.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "timestamp_ms": 700.0,
+      "inference_time_ms": 12.6,
+      "num_detections": 8,
+      "class_counts": {
+        "mailer": 8
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.414
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.675,
+          "bbox": [
+            1257.6,
+            705.7,
+            1322.9,
+            739.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.615,
+          "bbox": [
+            1240.0,
+            640.5,
+            1300.4,
+            678.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.536,
+          "bbox": [
+            1251.4,
+            644.8,
+            1296.4,
+            668.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.331,
+          "bbox": [
+            1179.1,
+            373.4,
+            1215.4,
+            388.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.298,
+          "bbox": [
+            1170.4,
+            364.8,
+            1216.6,
+            386.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.296,
+          "bbox": [
+            1184.2,
+            382.7,
+            1223.6,
+            403.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.282,
+          "bbox": [
+            1272.7,
+            540.3,
+            1306.5,
+            562.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.276,
+          "bbox": [
+            1233.7,
+            498.1,
+            1269.2,
+            514.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "timestamp_ms": 733.3333333333333,
+      "inference_time_ms": 12.44,
+      "num_detections": 10,
+      "class_counts": {
+        "mailer": 10
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.369
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.652,
+          "bbox": [
+            1256.4,
+            695.4,
+            1322.7,
+            728.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.491,
+          "bbox": [
+            1245.9,
+            636.6,
+            1298.0,
+            661.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.369,
+          "bbox": [
+            1240.0,
+            634.2,
+            1303.8,
+            674.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.343,
+          "bbox": [
+            1256.8,
+            677.4,
+            1325.2,
+            741.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.342,
+          "bbox": [
+            1180.6,
+            373.1,
+            1215.8,
+            386.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.332,
+          "bbox": [
+            1175.6,
+            364.8,
+            1218.8,
+            380.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.326,
+          "bbox": [
+            1172.4,
+            370.5,
+            1216.9,
+            393.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.298,
+          "bbox": [
+            1164.6,
+            362.0,
+            1216.5,
+            388.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.283,
+          "bbox": [
+            1184.3,
+            380.6,
+            1224.0,
+            400.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.254,
+          "bbox": [
+            1265.2,
+            688.8,
+            1315.0,
+            716.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "timestamp_ms": 766.6666666666667,
+      "inference_time_ms": 12.04,
+      "num_detections": 9,
+      "class_counts": {
+        "mailer": 9
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.355
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.69,
+          "bbox": [
+            1256.7,
+            687.7,
+            1316.5,
+            717.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.356,
+          "bbox": [
+            1254.9,
+            508.7,
+            1297.0,
+            526.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.351,
+          "bbox": [
+            1255.6,
+            513.6,
+            1305.8,
+            553.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.323,
+          "bbox": [
+            1179.2,
+            370.2,
+            1216.1,
+            386.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.323,
+          "bbox": [
+            1176.0,
+            364.5,
+            1218.0,
+            379.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.31,
+          "bbox": [
+            1254.4,
+            501.9,
+            1301.2,
+            521.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.297,
+          "bbox": [
+            1250.9,
+            502.6,
+            1302.7,
+            537.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.28,
+          "bbox": [
+            1164.7,
+            361.4,
+            1216.6,
+            387.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.266,
+          "bbox": [
+            1248.2,
+            632.6,
+            1292.6,
+            653.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "timestamp_ms": 800.0,
+      "inference_time_ms": 12.95,
+      "num_detections": 9,
+      "class_counts": {
+        "mailer": 9
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.359
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.705,
+          "bbox": [
+            1256.3,
+            682.1,
+            1313.2,
+            714.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.364,
+          "bbox": [
+            1230.3,
+            624.9,
+            1287.3,
+            652.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.347,
+          "bbox": [
+            1179.6,
+            369.4,
+            1218.0,
+            386.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.339,
+          "bbox": [
+            1175.6,
+            364.3,
+            1218.8,
+            379.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.322,
+          "bbox": [
+            1235.5,
+            619.8,
+            1274.5,
+            639.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.311,
+          "bbox": [
+            1256.1,
+            512.4,
+            1307.4,
+            552.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.298,
+          "bbox": [
+            1166.2,
+            361.0,
+            1220.5,
+            386.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.281,
+          "bbox": [
+            1256.8,
+            509.0,
+            1296.8,
+            527.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.266,
+          "bbox": [
+            1262.6,
+            520.4,
+            1305.0,
+            543.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "timestamp_ms": 833.3333333333334,
+      "inference_time_ms": 12.31,
+      "num_detections": 6,
+      "class_counts": {
+        "mailer": 6
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.375
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.767,
+          "bbox": [
+            1251.5,
+            672.4,
+            1312.3,
+            709.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.344,
+          "bbox": [
+            1178.8,
+            367.0,
+            1217.3,
+            384.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.303,
+          "bbox": [
+            1255.3,
+            511.0,
+            1305.7,
+            550.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.299,
+          "bbox": [
+            1165.1,
+            359.8,
+            1219.9,
+            385.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.284,
+          "bbox": [
+            1257.3,
+            508.6,
+            1297.2,
+            527.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.254,
+          "bbox": [
+            1173.7,
+            371.3,
+            1230.1,
+            399.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "timestamp_ms": 866.6666666666667,
+      "inference_time_ms": 12.2,
+      "num_detections": 5,
+      "class_counts": {
+        "mailer": 5
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.395
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.77,
+          "bbox": [
+            1251.3,
+            664.4,
+            1310.5,
+            701.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.329,
+          "bbox": [
+            1179.7,
+            365.5,
+            1216.7,
+            382.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.308,
+          "bbox": [
+            1256.5,
+            510.3,
+            1307.1,
+            544.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.291,
+          "bbox": [
+            1258.6,
+            507.6,
+            1297.9,
+            524.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1167.8,
+            359.4,
+            1220.4,
+            384.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "timestamp_ms": 900.0,
+      "inference_time_ms": 12.12,
+      "num_detections": 5,
+      "class_counts": {
+        "mailer": 5
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.343
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.54,
+          "bbox": [
+            1250.3,
+            660.8,
+            1307.7,
+            695.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.359,
+          "bbox": [
+            1180.5,
+            364.4,
+            1217.9,
+            381.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.278,
+          "bbox": [
+            1169.5,
+            359.1,
+            1222.7,
+            383.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1260.1,
+            507.3,
+            1297.2,
+            523.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.263,
+          "bbox": [
+            1229.6,
+            606.7,
+            1288.5,
+            653.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "timestamp_ms": 933.3333333333334,
+      "inference_time_ms": 12.2,
+      "num_detections": 7,
+      "class_counts": {
+        "box": 1,
+        "mailer": 6
+      },
+      "avg_confidence_per_class": {
+        "box": 0.558,
+        "mailer": 0.341
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.558,
+          "bbox": [
+            1309.8,
+            756.5,
+            1479.1,
+            886.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.49,
+          "bbox": [
+            1249.1,
+            655.6,
+            1307.2,
+            684.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.354,
+          "bbox": [
+            1233.5,
+            592.8,
+            1278.2,
+            617.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.336,
+          "bbox": [
+            1234.5,
+            600.3,
+            1267.5,
+            618.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.327,
+          "bbox": [
+            1178.8,
+            361.3,
+            1216.5,
+            378.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.276,
+          "bbox": [
+            1259.6,
+            500.9,
+            1302.3,
+            521.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.265,
+          "bbox": [
+            1253.9,
+            645.0,
+            1298.7,
+            664.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "timestamp_ms": 966.6666666666666,
+      "inference_time_ms": 12.18,
+      "num_detections": 9,
+      "class_counts": {
+        "mailer": 8,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.417,
+        "box": 0.53
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.58,
+          "bbox": [
+            1249.8,
+            643.7,
+            1296.6,
+            669.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.54,
+          "bbox": [
+            1245.9,
+            643.9,
+            1305.7,
+            685.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.535,
+          "bbox": [
+            1247.3,
+            637.3,
+            1295.7,
+            657.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.53,
+          "bbox": [
+            1307.9,
+            738.2,
+            1470.2,
+            882.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.389,
+          "bbox": [
+            1236.6,
+            609.8,
+            1297.2,
+            663.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.35,
+          "bbox": [
+            1253.2,
+            499.3,
+            1298.8,
+            523.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.336,
+          "bbox": [
+            1179.0,
+            359.5,
+            1216.9,
+            377.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.331,
+          "bbox": [
+            1177.7,
+            366.3,
+            1214.5,
+            380.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1235.7,
+            597.5,
+            1266.7,
+            613.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "timestamp_ms": 1000.0,
+      "inference_time_ms": 12.25,
+      "num_detections": 5,
+      "class_counts": {
+        "box": 1,
+        "mailer": 4
+      },
+      "avg_confidence_per_class": {
+        "box": 0.803,
+        "mailer": 0.449
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.803,
+          "bbox": [
+            1304.6,
+            743.1,
+            1465.0,
+            861.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.685,
+          "bbox": [
+            1242.6,
+            634.8,
+            1300.9,
+            669.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.466,
+          "bbox": [
+            1234.7,
+            612.0,
+            1299.4,
+            665.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.369,
+          "bbox": [
+            1249.0,
+            495.2,
+            1296.8,
+            533.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.276,
+          "bbox": [
+            1171.7,
+            357.9,
+            1217.6,
+            381.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "timestamp_ms": 1033.3333333333335,
+      "inference_time_ms": 12.2,
+      "num_detections": 7,
+      "class_counts": {
+        "mailer": 6,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.396,
+        "box": 0.61
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.687,
+          "bbox": [
+            1239.1,
+            632.8,
+            1299.9,
+            665.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.61,
+          "bbox": [
+            1297.0,
+            727.0,
+            1466.3,
+            856.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.449,
+          "bbox": [
+            1230.3,
+            613.5,
+            1297.9,
+            663.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.363,
+          "bbox": [
+            1248.2,
+            492.8,
+            1298.1,
+            530.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.334,
+          "bbox": [
+            1255.4,
+            636.9,
+            1299.6,
+            659.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.293,
+          "bbox": [
+            1236.4,
+            628.5,
+            1280.8,
+            650.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.253,
+          "bbox": [
+            1171.8,
+            357.2,
+            1216.3,
+            379.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "timestamp_ms": 1066.6666666666667,
+      "inference_time_ms": 12.42,
+      "num_detections": 5,
+      "class_counts": {
+        "box": 1,
+        "mailer": 4
+      },
+      "avg_confidence_per_class": {
+        "box": 0.794,
+        "mailer": 0.401
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.794,
+          "bbox": [
+            1303.8,
+            721.3,
+            1458.5,
+            836.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.698,
+          "bbox": [
+            1237.8,
+            628.2,
+            1301.2,
+            663.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.343,
+          "bbox": [
+            1254.3,
+            630.1,
+            1297.9,
+            653.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.281,
+          "bbox": [
+            1236.5,
+            627.4,
+            1281.8,
+            650.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.28,
+          "bbox": [
+            1252.3,
+            494.5,
+            1300.2,
+            520.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "timestamp_ms": 1100.0,
+      "inference_time_ms": 12.06,
+      "num_detections": 5,
+      "class_counts": {
+        "box": 1,
+        "mailer": 4
+      },
+      "avg_confidence_per_class": {
+        "box": 0.743,
+        "mailer": 0.414
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.743,
+          "bbox": [
+            1300.7,
+            712.9,
+            1452.5,
+            828.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.655,
+          "bbox": [
+            1239.9,
+            623.1,
+            1299.8,
+            656.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.481,
+          "bbox": [
+            1229.3,
+            605.3,
+            1296.7,
+            652.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.26,
+          "bbox": [
+            1177.5,
+            348.8,
+            1214.5,
+            365.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.259,
+          "bbox": [
+            1167.2,
+            351.2,
+            1219.3,
+            375.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "timestamp_ms": 1133.3333333333333,
+      "inference_time_ms": 12.11,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 1,
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "box": 0.629,
+        "mailer": 0.39
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.629,
+          "bbox": [
+            1295.2,
+            696.0,
+            1452.5,
+            817.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.436,
+          "bbox": [
+            1238.8,
+            617.0,
+            1301.0,
+            650.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.345,
+          "bbox": [
+            1228.3,
+            603.2,
+            1295.6,
+            645.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "timestamp_ms": 1166.6666666666667,
+      "inference_time_ms": 12.05,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.826,
+        "mailer": 0.391
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.826,
+          "bbox": [
+            1287.0,
+            699.8,
+            1443.2,
+            803.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.391,
+          "bbox": [
+            1227.9,
+            602.6,
+            1295.6,
+            645.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "timestamp_ms": 1200.0,
+      "inference_time_ms": 11.96,
+      "num_detections": 8,
+      "class_counts": {
+        "box": 1,
+        "mailer": 7
+      },
+      "avg_confidence_per_class": {
+        "box": 0.78,
+        "mailer": 0.311
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.78,
+          "bbox": [
+            1289.9,
+            695.1,
+            1439.9,
+            792.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.474,
+          "bbox": [
+            1231.7,
+            602.8,
+            1293.2,
+            644.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.378,
+          "bbox": [
+            1241.7,
+            594.4,
+            1293.0,
+            616.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.276,
+          "bbox": [
+            1153.0,
+            334.1,
+            1213.0,
+            364.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1171.2,
+            336.1,
+            1202.3,
+            347.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.265,
+          "bbox": [
+            1168.2,
+            331.7,
+            1204.0,
+            343.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.257,
+          "bbox": [
+            1169.5,
+            346.9,
+            1217.8,
+            368.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.252,
+          "bbox": [
+            1176.0,
+            343.9,
+            1214.9,
+            358.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "timestamp_ms": 1233.3333333333335,
+      "inference_time_ms": 12.08,
+      "num_detections": 6,
+      "class_counts": {
+        "box": 1,
+        "mailer": 5
+      },
+      "avg_confidence_per_class": {
+        "box": 0.771,
+        "mailer": 0.367
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.771,
+          "bbox": [
+            1294.2,
+            686.3,
+            1433.1,
+            786.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.637,
+          "bbox": [
+            1231.9,
+            591.6,
+            1293.0,
+            621.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.396,
+          "bbox": [
+            1326.0,
+            795.8,
+            1441.3,
+            881.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.28,
+          "bbox": [
+            1152.3,
+            333.1,
+            1212.1,
+            363.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.264,
+          "bbox": [
+            1167.5,
+            330.5,
+            1204.1,
+            343.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.26,
+          "bbox": [
+            1170.8,
+            335.1,
+            1202.0,
+            346.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "timestamp_ms": 1266.6666666666665,
+      "inference_time_ms": 12.2,
+      "num_detections": 5,
+      "class_counts": {
+        "mailer": 4,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.351,
+        "box": 0.536
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.61,
+          "bbox": [
+            1231.6,
+            588.0,
+            1292.4,
+            618.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.536,
+          "bbox": [
+            1290.8,
+            673.6,
+            1425.3,
+            773.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.269,
+          "bbox": [
+            1319.0,
+            785.9,
+            1433.8,
+            871.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.267,
+          "bbox": [
+            1166.7,
+            330.0,
+            1204.7,
+            343.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.258,
+          "bbox": [
+            1152.5,
+            326.5,
+            1215.1,
+            357.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "timestamp_ms": 1300.0,
+      "inference_time_ms": 12.17,
+      "num_detections": 4,
+      "class_counts": {
+        "box": 1,
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "box": 0.607,
+        "mailer": 0.396
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.607,
+          "bbox": [
+            1284.8,
+            662.1,
+            1422.6,
+            767.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.529,
+          "bbox": [
+            1237.1,
+            588.8,
+            1298.2,
+            618.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.401,
+          "bbox": [
+            1235.2,
+            585.2,
+            1273.2,
+            608.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.258,
+          "bbox": [
+            1312.0,
+            774.5,
+            1433.3,
+            861.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "timestamp_ms": 1333.3333333333333,
+      "inference_time_ms": 12.23,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 1,
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "box": 0.699,
+        "mailer": 0.426
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.699,
+          "bbox": [
+            1286.7,
+            654.9,
+            1417.7,
+            760.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.446,
+          "bbox": [
+            1237.9,
+            588.0,
+            1293.4,
+            612.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.406,
+          "bbox": [
+            1235.3,
+            584.3,
+            1270.6,
+            606.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 41,
+      "timestamp_ms": 1366.6666666666667,
+      "inference_time_ms": 12.44,
+      "num_detections": 7,
+      "class_counts": {
+        "box": 2,
+        "mailer": 5
+      },
+      "avg_confidence_per_class": {
+        "box": 0.548,
+        "mailer": 0.337
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.709,
+          "bbox": [
+            1284.8,
+            654.0,
+            1417.0,
+            747.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.434,
+          "bbox": [
+            1236.4,
+            583.6,
+            1292.7,
+            608.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.402,
+          "bbox": [
+            1234.4,
+            578.7,
+            1272.3,
+            603.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.387,
+          "bbox": [
+            1306.4,
+            746.5,
+            1428.7,
+            842.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.321,
+          "bbox": [
+            1236.7,
+            455.4,
+            1268.9,
+            474.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1226.7,
+            568.7,
+            1287.2,
+            614.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.252,
+          "bbox": [
+            1166.6,
+            328.3,
+            1205.0,
+            342.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 42,
+      "timestamp_ms": 1400.0,
+      "inference_time_ms": 15.54,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.629,
+        "mailer": 0.25
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.629,
+          "bbox": [
+            1280.3,
+            651.7,
+            1413.5,
+            742.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.25,
+          "bbox": [
+            1237.2,
+            455.0,
+            1267.2,
+            473.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 43,
+      "timestamp_ms": 1433.3333333333333,
+      "inference_time_ms": 14.1,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 1,
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "box": 0.498,
+        "mailer": 0.288
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.498,
+          "bbox": [
+            1274.3,
+            636.5,
+            1412.7,
+            729.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.322,
+          "bbox": [
+            1237.3,
+            453.9,
+            1267.1,
+            472.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.254,
+          "bbox": [
+            1231.4,
+            569.2,
+            1275.2,
+            590.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 44,
+      "timestamp_ms": 1466.6666666666665,
+      "inference_time_ms": 12.12,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.444,
+        "mailer": 0.275
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.458,
+          "bbox": [
+            1292.5,
+            714.5,
+            1411.8,
+            813.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.429,
+          "bbox": [
+            1270.3,
+            627.2,
+            1409.7,
+            718.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1294.7,
+            719.0,
+            1409.6,
+            811.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 45,
+      "timestamp_ms": 1500.0,
+      "inference_time_ms": 12.13,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.397,
+        "mailer": 0.308
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.511,
+          "bbox": [
+            1271.0,
+            623.2,
+            1403.1,
+            711.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.308,
+          "bbox": [
+            1231.0,
+            549.3,
+            1264.4,
+            569.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.283,
+          "bbox": [
+            1293.2,
+            704.8,
+            1411.0,
+            804.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 46,
+      "timestamp_ms": 1533.3333333333335,
+      "inference_time_ms": 11.7,
+      "num_detections": 5,
+      "class_counts": {
+        "box": 1,
+        "mailer": 4
+      },
+      "avg_confidence_per_class": {
+        "box": 0.631,
+        "mailer": 0.302
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.631,
+          "bbox": [
+            1270.6,
+            615.4,
+            1401.2,
+            700.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.398,
+          "bbox": [
+            1231.8,
+            547.2,
+            1265.9,
+            566.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.282,
+          "bbox": [
+            1159.0,
+            315.9,
+            1203.9,
+            336.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.275,
+          "bbox": [
+            1150.1,
+            317.9,
+            1210.9,
+            355.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.251,
+          "bbox": [
+            1145.2,
+            311.5,
+            1193.9,
+            334.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 47,
+      "timestamp_ms": 1566.6666666666667,
+      "inference_time_ms": 12.35,
+      "num_detections": 5,
+      "class_counts": {
+        "box": 2,
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "box": 0.469,
+        "mailer": 0.325
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.625,
+          "bbox": [
+            1267.2,
+            613.6,
+            1398.4,
+            696.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.409,
+          "bbox": [
+            1231.6,
+            542.4,
+            1265.5,
+            564.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.314,
+          "bbox": [
+            1290.5,
+            698.6,
+            1403.4,
+            790.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.288,
+          "bbox": [
+            1148.0,
+            312.9,
+            1209.9,
+            353.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.28,
+          "bbox": [
+            1158.0,
+            314.0,
+            1206.2,
+            335.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 48,
+      "timestamp_ms": 1600.0,
+      "inference_time_ms": 12.03,
+      "num_detections": 4,
+      "class_counts": {
+        "box": 1,
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "box": 0.528,
+        "mailer": 0.348
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.528,
+          "bbox": [
+            1263.1,
+            609.1,
+            1396.2,
+            691.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.46,
+          "bbox": [
+            1231.2,
+            540.3,
+            1265.1,
+            563.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.294,
+          "bbox": [
+            1148.4,
+            311.0,
+            1210.9,
+            352.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.292,
+          "bbox": [
+            1152.6,
+            313.0,
+            1206.5,
+            336.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 49,
+      "timestamp_ms": 1633.3333333333333,
+      "inference_time_ms": 12.26,
+      "num_detections": 5,
+      "class_counts": {
+        "box": 1,
+        "mailer": 4
+      },
+      "avg_confidence_per_class": {
+        "box": 0.376,
+        "mailer": 0.301
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.376,
+          "bbox": [
+            1261.9,
+            600.2,
+            1389.9,
+            677.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.357,
+          "bbox": [
+            1228.1,
+            541.6,
+            1262.3,
+            563.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.304,
+          "bbox": [
+            1149.6,
+            308.8,
+            1211.4,
+            350.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.292,
+          "bbox": [
+            1156.8,
+            312.7,
+            1208.4,
+            334.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.252,
+          "bbox": [
+            1161.6,
+            319.4,
+            1207.2,
+            340.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 50,
+      "timestamp_ms": 1666.6666666666667,
+      "inference_time_ms": 11.68,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.392,
+        "mailer": 0.337
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.453,
+          "bbox": [
+            1255.0,
+            595.1,
+            1388.0,
+            671.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.337,
+          "bbox": [
+            1228.9,
+            535.4,
+            1262.3,
+            558.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.331,
+          "bbox": [
+            1285.0,
+            658.8,
+            1397.0,
+            750.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 51,
+      "timestamp_ms": 1700.0,
+      "inference_time_ms": 25.94,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.315
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.361,
+          "bbox": [
+            1231.0,
+            530.7,
+            1265.4,
+            549.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.33,
+          "bbox": [
+            1222.9,
+            533.1,
+            1268.3,
+            555.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.252,
+          "bbox": [
+            1233.3,
+            426.5,
+            1265.4,
+            439.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 52,
+      "timestamp_ms": 1733.3333333333335,
+      "inference_time_ms": 25.12,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.309
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.365,
+          "bbox": [
+            1228.3,
+            528.9,
+            1264.6,
+            547.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.308,
+          "bbox": [
+            1220.4,
+            531.6,
+            1267.7,
+            554.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.255,
+          "bbox": [
+            1231.9,
+            510.3,
+            1259.8,
+            522.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 53,
+      "timestamp_ms": 1766.6666666666665,
+      "inference_time_ms": 15.97,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.253
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.253,
+          "bbox": [
+            1150.1,
+            300.7,
+            1210.9,
+            344.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 54,
+      "timestamp_ms": 1800.0,
+      "inference_time_ms": 26.14,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 4
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.381
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.671,
+          "bbox": [
+            1318.0,
+            865.9,
+            1398.1,
+            899.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.315,
+          "bbox": [
+            1233.0,
+            415.2,
+            1265.9,
+            431.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.273,
+          "bbox": [
+            1231.0,
+            409.7,
+            1272.2,
+            428.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.264,
+          "bbox": [
+            1151.2,
+            297.8,
+            1210.7,
+            341.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 55,
+      "timestamp_ms": 1833.3333333333333,
+      "inference_time_ms": 29.51,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.477
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.842,
+          "bbox": [
+            1314.7,
+            854.8,
+            1395.7,
+            888.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.296,
+          "bbox": [
+            1318.7,
+            850.3,
+            1389.0,
+            874.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.292,
+          "bbox": [
+            1229.7,
+            407.8,
+            1269.9,
+            427.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 56,
+      "timestamp_ms": 1866.6666666666667,
+      "inference_time_ms": 24.61,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 4
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.568
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.817,
+          "bbox": [
+            1306.0,
+            838.6,
+            1394.5,
+            891.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.614,
+          "bbox": [
+            1310.7,
+            841.6,
+            1390.7,
+            865.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.557,
+          "bbox": [
+            1310.3,
+            834.2,
+            1392.6,
+            855.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.284,
+          "bbox": [
+            1231.2,
+            411.3,
+            1262.8,
+            429.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 57,
+      "timestamp_ms": 1900.0,
+      "inference_time_ms": 18.24,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.726,
+        "box": 0.307
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.809,
+          "bbox": [
+            1308.1,
+            830.4,
+            1389.1,
+            854.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.643,
+          "bbox": [
+            1305.4,
+            824.9,
+            1390.3,
+            878.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.307,
+          "bbox": [
+            1260.9,
+            607.4,
+            1365.3,
+            699.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 58,
+      "timestamp_ms": 1933.3333333333333,
+      "inference_time_ms": 14.27,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 2,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.506,
+        "box": 0.377
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.729,
+          "bbox": [
+            1307.2,
+            824.2,
+            1387.7,
+            848.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.41,
+          "bbox": [
+            1256.8,
+            603.2,
+            1362.5,
+            692.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.344,
+          "bbox": [
+            1234.8,
+            545.0,
+            1370.4,
+            694.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.283,
+          "bbox": [
+            1262.0,
+            608.6,
+            1359.7,
+            689.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 59,
+      "timestamp_ms": 1966.6666666666665,
+      "inference_time_ms": 20.6,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 1,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.779,
+        "box": 0.313
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.779,
+          "bbox": [
+            1299.0,
+            810.2,
+            1383.0,
+            844.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.345,
+          "bbox": [
+            1257.7,
+            598.0,
+            1359.6,
+            686.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.28,
+          "bbox": [
+            1235.0,
+            541.2,
+            1366.1,
+            675.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 60,
+      "timestamp_ms": 2000.0,
+      "inference_time_ms": 14.56,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 2,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.497,
+        "box": 0.319
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.721,
+          "bbox": [
+            1295.0,
+            800.5,
+            1377.3,
+            831.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.339,
+          "bbox": [
+            1260.0,
+            595.0,
+            1353.4,
+            679.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.299,
+          "bbox": [
+            1245.3,
+            541.7,
+            1355.8,
+            617.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.272,
+          "bbox": [
+            1147.5,
+            289.9,
+            1207.0,
+            324.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 61,
+      "timestamp_ms": 2033.3333333333333,
+      "inference_time_ms": 11.71,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 1,
+        "box": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.64,
+        "box": 0.357
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.64,
+          "bbox": [
+            1291.9,
+            788.0,
+            1374.8,
+            820.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.396,
+          "bbox": [
+            1236.8,
+            533.3,
+            1361.6,
+            671.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.343,
+          "bbox": [
+            1254.5,
+            584.1,
+            1353.2,
+            670.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.331,
+          "bbox": [
+            1229.2,
+            535.0,
+            1351.6,
+            602.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 62,
+      "timestamp_ms": 2066.666666666667,
+      "inference_time_ms": 12.03,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.517,
+        "box": 0.515
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.743,
+          "bbox": [
+            1290.5,
+            778.1,
+            1369.0,
+            808.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.515,
+          "bbox": [
+            1245.6,
+            540.8,
+            1354.7,
+            656.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.291,
+          "bbox": [
+            1321.2,
+            869.2,
+            1384.7,
+            901.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 63,
+      "timestamp_ms": 2100.0,
+      "inference_time_ms": 12.36,
+      "num_detections": 7,
+      "class_counts": {
+        "mailer": 5,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.468,
+        "box": 0.37
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.77,
+          "bbox": [
+            1284.3,
+            769.0,
+            1366.6,
+            804.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.609,
+          "bbox": [
+            1293.0,
+            769.8,
+            1361.3,
+            791.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.439,
+          "bbox": [
+            1248.8,
+            546.5,
+            1352.2,
+            649.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.391,
+          "bbox": [
+            1314.5,
+            859.3,
+            1384.7,
+            902.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.301,
+          "bbox": [
+            1240.6,
+            521.6,
+            1351.7,
+            611.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.287,
+          "bbox": [
+            1241.6,
+            536.8,
+            1354.0,
+            655.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.286,
+          "bbox": [
+            1254.1,
+            580.5,
+            1348.3,
+            647.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 64,
+      "timestamp_ms": 2133.3333333333335,
+      "inference_time_ms": 11.76,
+      "num_detections": 5,
+      "class_counts": {
+        "mailer": 4,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.585,
+        "box": 0.4
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.79,
+          "bbox": [
+            1282.0,
+            759.3,
+            1361.4,
+            797.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.741,
+          "bbox": [
+            1305.8,
+            850.2,
+            1384.1,
+            893.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.52,
+          "bbox": [
+            1290.1,
+            758.1,
+            1355.2,
+            781.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.4,
+          "bbox": [
+            1253.5,
+            581.6,
+            1347.5,
+            641.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.287,
+          "bbox": [
+            1255.8,
+            583.1,
+            1345.4,
+            641.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 65,
+      "timestamp_ms": 2166.6666666666665,
+      "inference_time_ms": 14.69,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 2,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.747,
+        "box": 0.338
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.816,
+          "bbox": [
+            1277.4,
+            749.8,
+            1356.2,
+            781.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.678,
+          "bbox": [
+            1303.5,
+            839.9,
+            1383.9,
+            889.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.424,
+          "bbox": [
+            1251.7,
+            556.0,
+            1350.8,
+            640.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.251,
+          "bbox": [
+            1235.4,
+            523.2,
+            1342.3,
+            584.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 66,
+      "timestamp_ms": 2200.0,
+      "inference_time_ms": 13.2,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 3,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.767,
+        "box": 0.401
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.831,
+          "bbox": [
+            1275.3,
+            737.1,
+            1357.0,
+            782.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.742,
+          "bbox": [
+            1278.9,
+            739.6,
+            1348.8,
+            763.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.729,
+          "bbox": [
+            1301.3,
+            829.2,
+            1378.9,
+            878.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.401,
+          "bbox": [
+            1251.5,
+            554.3,
+            1345.2,
+            635.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 67,
+      "timestamp_ms": 2233.3333333333335,
+      "inference_time_ms": 12.16,
+      "num_detections": 6,
+      "class_counts": {
+        "mailer": 4,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.639,
+        "box": 0.327
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.844,
+          "bbox": [
+            1276.6,
+            732.3,
+            1354.0,
+            773.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.753,
+          "bbox": [
+            1295.5,
+            815.8,
+            1374.1,
+            864.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.553,
+          "bbox": [
+            1282.4,
+            738.5,
+            1349.4,
+            759.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.404,
+          "bbox": [
+            1250.1,
+            571.6,
+            1338.9,
+            628.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.398,
+          "bbox": [
+            1249.8,
+            569.2,
+            1339.5,
+            630.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.255,
+          "bbox": [
+            1241.9,
+            515.3,
+            1343.0,
+            625.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 68,
+      "timestamp_ms": 2266.6666666666665,
+      "inference_time_ms": 11.68,
+      "num_detections": 5,
+      "class_counts": {
+        "mailer": 3,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.675,
+        "box": 0.393
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.856,
+          "bbox": [
+            1291.2,
+            808.9,
+            1373.5,
+            858.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.816,
+          "bbox": [
+            1273.0,
+            722.6,
+            1349.6,
+            766.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.432,
+          "bbox": [
+            1247.8,
+            566.6,
+            1336.6,
+            626.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.353,
+          "bbox": [
+            1238.9,
+            512.9,
+            1338.8,
+            626.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.352,
+          "bbox": [
+            1247.7,
+            568.7,
+            1335.9,
+            624.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 69,
+      "timestamp_ms": 2300.0,
+      "inference_time_ms": 18.74,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 2,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.811,
+        "box": 0.397
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.82,
+          "bbox": [
+            1289.8,
+            801.3,
+            1367.3,
+            838.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.802,
+          "bbox": [
+            1270.0,
+            718.3,
+            1348.0,
+            750.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.465,
+          "bbox": [
+            1246.4,
+            543.6,
+            1335.0,
+            622.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.328,
+          "bbox": [
+            1228.0,
+            494.9,
+            1346.2,
+            624.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 70,
+      "timestamp_ms": 2333.3333333333335,
+      "inference_time_ms": 25.08,
+      "num_detections": 6,
+      "class_counts": {
+        "mailer": 5,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.54,
+        "box": 0.409
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.8,
+          "bbox": [
+            1284.5,
+            789.3,
+            1368.9,
+            835.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.658,
+          "bbox": [
+            1268.7,
+            709.5,
+            1342.6,
+            738.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.576,
+          "bbox": [
+            1287.9,
+            784.9,
+            1359.1,
+            817.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.409,
+          "bbox": [
+            1246.1,
+            537.0,
+            1335.0,
+            608.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.381,
+          "bbox": [
+            1271.3,
+            721.8,
+            1343.0,
+            750.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.284,
+          "bbox": [
+            1245.3,
+            541.3,
+            1332.6,
+            609.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 71,
+      "timestamp_ms": 2366.6666666666665,
+      "inference_time_ms": 12.62,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 3,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.611,
+        "box": 0.434
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.768,
+          "bbox": [
+            1281.3,
+            777.5,
+            1355.3,
+            811.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.726,
+          "bbox": [
+            1266.1,
+            696.2,
+            1340.7,
+            729.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.434,
+          "bbox": [
+            1242.9,
+            536.9,
+            1331.4,
+            599.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.339,
+          "bbox": [
+            1240.8,
+            549.4,
+            1331.9,
+            602.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 72,
+      "timestamp_ms": 2400.0,
+      "inference_time_ms": 12.33,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 3,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.668,
+        "box": 0.404
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.828,
+          "bbox": [
+            1279.3,
+            768.6,
+            1357.7,
+            809.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.75,
+          "bbox": [
+            1265.2,
+            687.9,
+            1339.4,
+            725.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.428,
+          "bbox": [
+            1246.5,
+            537.2,
+            1329.6,
+            601.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.404,
+          "bbox": [
+            1235.3,
+            531.2,
+            1335.4,
+            593.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 73,
+      "timestamp_ms": 2433.333333333333,
+      "inference_time_ms": 27.87,
+      "num_detections": 6,
+      "class_counts": {
+        "mailer": 5,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.497,
+        "box": 0.362
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.849,
+          "bbox": [
+            1278.1,
+            762.5,
+            1356.5,
+            803.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.707,
+          "bbox": [
+            1266.7,
+            683.3,
+            1332.9,
+            712.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.362,
+          "bbox": [
+            1238.8,
+            533.3,
+            1330.5,
+            589.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.322,
+          "bbox": [
+            1248.2,
+            540.5,
+            1328.9,
+            591.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.306,
+          "bbox": [
+            1268.0,
+            694.6,
+            1336.8,
+            731.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.302,
+          "bbox": [
+            1323.8,
+            859.6,
+            1386.9,
+            901.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 74,
+      "timestamp_ms": 2466.666666666667,
+      "inference_time_ms": 15.02,
+      "num_detections": 6,
+      "class_counts": {
+        "mailer": 4,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.648,
+        "box": 0.306
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.844,
+          "bbox": [
+            1274.9,
+            748.9,
+            1352.0,
+            795.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.708,
+          "bbox": [
+            1318.2,
+            850.3,
+            1388.2,
+            890.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.679,
+          "bbox": [
+            1259.3,
+            675.6,
+            1330.4,
+            708.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.36,
+          "bbox": [
+            1238.3,
+            529.9,
+            1325.9,
+            584.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.359,
+          "bbox": [
+            1266.7,
+            671.8,
+            1327.0,
+            692.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.252,
+          "bbox": [
+            1252.9,
+            537.6,
+            1318.5,
+            572.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 75,
+      "timestamp_ms": 2500.0,
+      "inference_time_ms": 25.73,
+      "num_detections": 9,
+      "class_counts": {
+        "mailer": 7,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.644,
+        "box": 0.363
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.912,
+          "bbox": [
+            1266.8,
+            740.1,
+            1349.6,
+            787.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.894,
+          "bbox": [
+            1311.8,
+            830.2,
+            1384.8,
+            892.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.714,
+          "bbox": [
+            1256.0,
+            667.4,
+            1327.6,
+            702.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.68,
+          "bbox": [
+            1318.2,
+            835.8,
+            1382.8,
+            871.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.659,
+          "bbox": [
+            1272.8,
+            734.8,
+            1345.1,
+            767.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.423,
+          "bbox": [
+            1235.6,
+            524.2,
+            1320.1,
+            580.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.343,
+          "bbox": [
+            1243.3,
+            532.6,
+            1312.9,
+            574.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.306,
+          "bbox": [
+            1239.5,
+            510.2,
+            1320.5,
+            581.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.302,
+          "bbox": [
+            1233.7,
+            478.6,
+            1325.3,
+            578.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 76,
+      "timestamp_ms": 2533.333333333333,
+      "inference_time_ms": 12.92,
+      "num_detections": 7,
+      "class_counts": {
+        "mailer": 5,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.604,
+        "box": 0.341
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.893,
+          "bbox": [
+            1309.2,
+            826.5,
+            1382.0,
+            875.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.847,
+          "bbox": [
+            1265.6,
+            730.9,
+            1344.9,
+            773.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.539,
+          "bbox": [
+            1253.5,
+            661.9,
+            1326.0,
+            685.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.388,
+          "bbox": [
+            1262.3,
+            702.0,
+            1340.5,
+            758.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.383,
+          "bbox": [
+            1235.9,
+            505.2,
+            1321.8,
+            580.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.351,
+          "bbox": [
+            1237.2,
+            531.9,
+            1313.0,
+            574.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.299,
+          "bbox": [
+            1245.2,
+            529.8,
+            1316.6,
+            573.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 77,
+      "timestamp_ms": 2566.666666666667,
+      "inference_time_ms": 18.03,
+      "num_detections": 8,
+      "class_counts": {
+        "mailer": 6,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.562,
+        "box": 0.379
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.86,
+          "bbox": [
+            1272.5,
+            726.0,
+            1340.8,
+            758.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.796,
+          "bbox": [
+            1308.2,
+            815.9,
+            1376.1,
+            863.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.525,
+          "bbox": [
+            1255.7,
+            653.4,
+            1323.5,
+            671.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.478,
+          "bbox": [
+            1254.8,
+            653.0,
+            1326.2,
+            690.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.438,
+          "bbox": [
+            1233.9,
+            500.4,
+            1319.5,
+            576.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.367,
+          "bbox": [
+            1260.4,
+            699.4,
+            1340.9,
+            754.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.346,
+          "bbox": [
+            1230.2,
+            519.1,
+            1314.3,
+            574.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.321,
+          "bbox": [
+            1242.5,
+            526.1,
+            1315.3,
+            570.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 78,
+      "timestamp_ms": 2600.0,
+      "inference_time_ms": 17.83,
+      "num_detections": 8,
+      "class_counts": {
+        "mailer": 6,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.596,
+        "box": 0.314
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.843,
+          "bbox": [
+            1267.8,
+            719.8,
+            1337.7,
+            761.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.824,
+          "bbox": [
+            1303.5,
+            803.9,
+            1374.0,
+            856.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.633,
+          "bbox": [
+            1252.6,
+            647.8,
+            1321.1,
+            672.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.518,
+          "bbox": [
+            1255.4,
+            649.0,
+            1327.1,
+            691.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.387,
+          "bbox": [
+            1235.2,
+            527.2,
+            1310.7,
+            565.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.373,
+          "bbox": [
+            1237.9,
+            506.9,
+            1317.7,
+            569.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.373,
+          "bbox": [
+            1258.4,
+            697.1,
+            1339.4,
+            752.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.254,
+          "bbox": [
+            1224.9,
+            481.5,
+            1313.7,
+            535.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 79,
+      "timestamp_ms": 2633.3333333333335,
+      "inference_time_ms": 14.37,
+      "num_detections": 5,
+      "class_counts": {
+        "mailer": 4,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.628,
+        "box": 0.392
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.783,
+          "bbox": [
+            1299.3,
+            795.9,
+            1368.7,
+            835.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.771,
+          "bbox": [
+            1261.0,
+            713.8,
+            1337.3,
+            752.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.64,
+          "bbox": [
+            1249.9,
+            637.4,
+            1317.2,
+            665.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.392,
+          "bbox": [
+            1231.7,
+            500.6,
+            1314.0,
+            562.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.318,
+          "bbox": [
+            1231.7,
+            501.7,
+            1313.1,
+            561.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 80,
+      "timestamp_ms": 2666.6666666666665,
+      "inference_time_ms": 12.69,
+      "num_detections": 7,
+      "class_counts": {
+        "mailer": 6,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.534,
+        "box": 0.383
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.819,
+          "bbox": [
+            1299.5,
+            784.6,
+            1366.1,
+            819.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.685,
+          "bbox": [
+            1260.9,
+            694.9,
+            1334.3,
+            745.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.587,
+          "bbox": [
+            1248.5,
+            635.2,
+            1313.3,
+            662.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.499,
+          "bbox": [
+            1267.9,
+            697.6,
+            1329.5,
+            726.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.383,
+          "bbox": [
+            1228.9,
+            494.9,
+            1312.4,
+            555.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.356,
+          "bbox": [
+            1229.2,
+            495.8,
+            1311.8,
+            554.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.258,
+          "bbox": [
+            1191.0,
+            414.8,
+            1220.6,
+            429.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 81,
+      "timestamp_ms": 2700.0,
+      "inference_time_ms": 17.61,
+      "num_detections": 7,
+      "class_counts": {
+        "mailer": 6,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.561,
+        "box": 0.347
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.819,
+          "bbox": [
+            1294.1,
+            773.5,
+            1360.3,
+            821.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.63,
+          "bbox": [
+            1266.0,
+            691.5,
+            1326.2,
+            716.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.605,
+          "bbox": [
+            1247.7,
+            628.7,
+            1311.6,
+            658.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.47,
+          "bbox": [
+            1262.2,
+            689.6,
+            1329.5,
+            741.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.445,
+          "bbox": [
+            1228.8,
+            497.0,
+            1308.8,
+            550.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.397,
+          "bbox": [
+            1254.4,
+            624.9,
+            1307.0,
+            646.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.347,
+          "bbox": [
+            1228.3,
+            496.3,
+            1309.6,
+            551.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 82,
+      "timestamp_ms": 2733.3333333333335,
+      "inference_time_ms": 29.58,
+      "num_detections": 9,
+      "class_counts": {
+        "mailer": 8,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.533,
+        "box": 0.369
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.82,
+          "bbox": [
+            1287.5,
+            765.7,
+            1357.1,
+            811.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.662,
+          "bbox": [
+            1296.8,
+            767.1,
+            1351.3,
+            795.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.613,
+          "bbox": [
+            1260.0,
+            681.9,
+            1320.5,
+            711.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.537,
+          "bbox": [
+            1237.1,
+            621.5,
+            1313.8,
+            649.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.476,
+          "bbox": [
+            1250.2,
+            634.5,
+            1314.1,
+            659.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.472,
+          "bbox": [
+            1248.9,
+            618.3,
+            1309.5,
+            638.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.4,
+          "bbox": [
+            1222.6,
+            470.8,
+            1304.2,
+            546.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.369,
+          "bbox": [
+            1216.1,
+            480.4,
+            1306.3,
+            544.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.285,
+          "bbox": [
+            1259.8,
+            671.3,
+            1322.8,
+            729.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 83,
+      "timestamp_ms": 2766.6666666666665,
+      "inference_time_ms": 12.55,
+      "num_detections": 7,
+      "class_counts": {
+        "mailer": 6,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.473,
+        "box": 0.381
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.765,
+          "bbox": [
+            1283.2,
+            756.2,
+            1351.9,
+            800.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.696,
+          "bbox": [
+            1256.3,
+            673.7,
+            1317.5,
+            708.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.431,
+          "bbox": [
+            1226.1,
+            467.9,
+            1302.9,
+            540.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.381,
+          "bbox": [
+            1220.8,
+            486.5,
+            1301.2,
+            535.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.351,
+          "bbox": [
+            1238.7,
+            613.2,
+            1308.9,
+            652.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.318,
+          "bbox": [
+            1231.9,
+            491.1,
+            1299.4,
+            527.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.276,
+          "bbox": [
+            1248.8,
+            635.1,
+            1310.5,
+            658.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 84,
+      "timestamp_ms": 2800.0,
+      "inference_time_ms": 17.28,
+      "num_detections": 7,
+      "class_counts": {
+        "mailer": 5,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.505,
+        "box": 0.344
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.831,
+          "bbox": [
+            1274.7,
+            746.7,
+            1352.5,
+            789.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.786,
+          "bbox": [
+            1252.3,
+            669.0,
+            1318.2,
+            703.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.418,
+          "bbox": [
+            1220.7,
+            476.8,
+            1301.5,
+            534.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.343,
+          "bbox": [
+            1227.2,
+            476.9,
+            1302.1,
+            533.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.307,
+          "bbox": [
+            1234.0,
+            491.6,
+            1294.7,
+            525.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.269,
+          "bbox": [
+            1232.7,
+            490.4,
+            1295.2,
+            525.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.259,
+          "bbox": [
+            1240.9,
+            613.1,
+            1307.9,
+            659.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 85,
+      "timestamp_ms": 2833.3333333333335,
+      "inference_time_ms": 20.43,
+      "num_detections": 10,
+      "class_counts": {
+        "mailer": 8,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.489,
+        "box": 0.367
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.876,
+          "bbox": [
+            1278.5,
+            737.8,
+            1344.6,
+            780.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.575,
+          "bbox": [
+            1251.7,
+            662.9,
+            1310.3,
+            699.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.529,
+          "bbox": [
+            1224.2,
+            480.4,
+            1301.5,
+            534.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.521,
+          "bbox": [
+            1241.1,
+            605.9,
+            1300.4,
+            647.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.466,
+          "bbox": [
+            1246.6,
+            600.6,
+            1295.0,
+            620.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.401,
+          "bbox": [
+            1268.0,
+            801.9,
+            1449.9,
+            894.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.332,
+          "bbox": [
+            1221.4,
+            485.1,
+            1301.0,
+            530.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.318,
+          "bbox": [
+            1242.9,
+            612.0,
+            1311.3,
+            698.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.316,
+          "bbox": [
+            1242.3,
+            607.1,
+            1294.5,
+            627.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.309,
+          "bbox": [
+            1241.4,
+            628.6,
+            1304.5,
+            654.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 86,
+      "timestamp_ms": 2866.6666666666665,
+      "inference_time_ms": 16.11,
+      "num_detections": 8,
+      "class_counts": {
+        "mailer": 6,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.556,
+        "box": 0.458
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.862,
+          "bbox": [
+            1281.3,
+            731.0,
+            1344.8,
+            773.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.636,
+          "bbox": [
+            1237.0,
+            593.2,
+            1296.2,
+            618.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.611,
+          "bbox": [
+            1239.2,
+            599.9,
+            1299.1,
+            642.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.548,
+          "bbox": [
+            1260.8,
+            791.7,
+            1445.8,
+            890.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.439,
+          "bbox": [
+            1225.4,
+            485.8,
+            1297.3,
+            527.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.429,
+          "bbox": [
+            1251.8,
+            659.7,
+            1312.6,
+            687.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.367,
+          "bbox": [
+            1218.9,
+            474.7,
+            1301.8,
+            530.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.361,
+          "bbox": [
+            1250.3,
+            601.3,
+            1299.6,
+            619.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 87,
+      "timestamp_ms": 2900.0,
+      "inference_time_ms": 11.62,
+      "num_detections": 12,
+      "class_counts": {
+        "mailer": 10,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.485,
+        "box": 0.461
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.814,
+          "bbox": [
+            1274.3,
+            723.3,
+            1343.0,
+            764.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.633,
+          "bbox": [
+            1269.8,
+            780.3,
+            1434.8,
+            880.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.536,
+          "bbox": [
+            1243.4,
+            592.4,
+            1295.4,
+            614.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.512,
+          "bbox": [
+            1225.3,
+            473.3,
+            1302.0,
+            524.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.498,
+          "bbox": [
+            1239.8,
+            606.9,
+            1302.6,
+            662.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.489,
+          "bbox": [
+            1249.9,
+            635.3,
+            1307.8,
+            662.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.468,
+          "bbox": [
+            1249.3,
+            646.8,
+            1315.8,
+            689.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.449,
+          "bbox": [
+            1239.6,
+            591.8,
+            1302.1,
+            629.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.412,
+          "bbox": [
+            1247.3,
+            629.1,
+            1312.8,
+            677.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.411,
+          "bbox": [
+            1232.2,
+            487.5,
+            1292.8,
+            519.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.288,
+          "bbox": [
+            1220.0,
+            480.4,
+            1297.4,
+            525.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.263,
+          "bbox": [
+            1273.4,
+            788.0,
+            1442.0,
+            891.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 88,
+      "timestamp_ms": 2933.333333333333,
+      "inference_time_ms": 11.7,
+      "num_detections": 8,
+      "class_counts": {
+        "mailer": 6,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.57,
+        "box": 0.505
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.757,
+          "bbox": [
+            1275.5,
+            716.1,
+            1341.8,
+            759.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.647,
+          "bbox": [
+            1259.1,
+            762.7,
+            1426.8,
+            876.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.64,
+          "bbox": [
+            1238.6,
+            606.1,
+            1303.0,
+            659.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.625,
+          "bbox": [
+            1246.8,
+            632.0,
+            1309.6,
+            663.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.559,
+          "bbox": [
+            1245.9,
+            595.2,
+            1295.4,
+            615.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.436,
+          "bbox": [
+            1237.8,
+            589.5,
+            1302.2,
+            629.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.401,
+          "bbox": [
+            1214.7,
+            439.3,
+            1300.7,
+            522.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.364,
+          "bbox": [
+            1214.9,
+            452.9,
+            1301.0,
+            518.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 89,
+      "timestamp_ms": 2966.666666666667,
+      "inference_time_ms": 13.0,
+      "num_detections": 9,
+      "class_counts": {
+        "mailer": 7,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.511,
+        "box": 0.484
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.728,
+          "bbox": [
+            1271.5,
+            699.5,
+            1341.0,
+            749.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.674,
+          "bbox": [
+            1246.8,
+            629.6,
+            1306.7,
+            661.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.654,
+          "bbox": [
+            1237.4,
+            607.2,
+            1302.7,
+            659.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.61,
+          "bbox": [
+            1261.7,
+            753.6,
+            1423.1,
+            863.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.495,
+          "bbox": [
+            1242.7,
+            588.8,
+            1297.2,
+            609.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.391,
+          "bbox": [
+            1219.5,
+            453.0,
+            1298.1,
+            509.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.357,
+          "bbox": [
+            1216.0,
+            451.8,
+            1298.5,
+            509.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.355,
+          "bbox": [
+            1222.6,
+            578.2,
+            1297.6,
+            613.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.279,
+          "bbox": [
+            1264.9,
+            760.6,
+            1424.8,
+            859.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 90,
+      "timestamp_ms": 3000.0,
+      "inference_time_ms": 11.43,
+      "num_detections": 10,
+      "class_counts": {
+        "mailer": 8,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.532,
+        "box": 0.519
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.774,
+          "bbox": [
+            1274.8,
+            694.1,
+            1335.2,
+            718.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.683,
+          "bbox": [
+            1254.3,
+            742.9,
+            1417.7,
+            850.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.67,
+          "bbox": [
+            1272.4,
+            696.7,
+            1336.5,
+            742.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.647,
+          "bbox": [
+            1236.4,
+            607.4,
+            1301.6,
+            659.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.551,
+          "bbox": [
+            1248.9,
+            630.6,
+            1305.4,
+            658.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.5,
+          "bbox": [
+            1241.1,
+            581.7,
+            1294.5,
+            604.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.447,
+          "bbox": [
+            1215.6,
+            451.3,
+            1297.2,
+            503.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.412,
+          "bbox": [
+            1235.2,
+            570.5,
+            1299.0,
+            615.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.356,
+          "bbox": [
+            1214.2,
+            450.1,
+            1297.1,
+            503.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.256,
+          "bbox": [
+            1245.9,
+            743.3,
+            1418.9,
+            848.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 91,
+      "timestamp_ms": 3033.333333333333,
+      "inference_time_ms": 11.6,
+      "num_detections": 9,
+      "class_counts": {
+        "box": 2,
+        "mailer": 7
+      },
+      "avg_confidence_per_class": {
+        "box": 0.551,
+        "mailer": 0.454
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.73,
+          "bbox": [
+            1257.4,
+            742.9,
+            1413.0,
+            835.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.67,
+          "bbox": [
+            1271.7,
+            688.5,
+            1334.0,
+            725.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.599,
+          "bbox": [
+            1236.0,
+            604.1,
+            1299.6,
+            655.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.465,
+          "bbox": [
+            1242.9,
+            588.0,
+            1291.3,
+            609.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.432,
+          "bbox": [
+            1235.9,
+            577.4,
+            1296.5,
+            621.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.383,
+          "bbox": [
+            1214.8,
+            451.2,
+            1298.0,
+            501.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.372,
+          "bbox": [
+            1213.4,
+            449.8,
+            1298.1,
+            502.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.372,
+          "bbox": [
+            1249.0,
+            629.5,
+            1304.8,
+            658.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.258,
+          "bbox": [
+            1236.6,
+            582.3,
+            1275.6,
+            603.3
+          ]
+        }
+      ]
+    }
+  ],
+  "aggregate_stats": {
+    "total_detections": 642,
+    "class_distribution": {
+      "mailer": 532,
+      "box": 110
+    },
+    "avg_confidence_per_class": {
+      "mailer": 0.448,
+      "box": 0.417
+    },
+    "detection_density_per_frame": 6.98
+  }
+}

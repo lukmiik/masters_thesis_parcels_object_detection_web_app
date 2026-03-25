@@ -1,0 +1,7215 @@
+{
+  "model": "fasterrcnn",
+  "dataset": "package_sorting",
+  "video_file": "video_4.mp4",
+  "output_file": "faster_rcnn_video_4.mp4",
+  "total_frames": 232,
+  "video_fps": 30.0,
+  "avg_inference_fps": 56.59,
+  "processing_time_seconds": 7.13,
+  "avg_inference_time_ms": 17.67,
+  "per_frame_stats": [
+    {
+      "frame_id": 0,
+      "timestamp_ms": 0.0,
+      "inference_time_ms": 14.11,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.692
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.794,
+          "bbox": [
+            1289.6,
+            602.7,
+            1398.9,
+            640.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.73,
+          "bbox": [
+            1288.9,
+            603.6,
+            1398.3,
+            622.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.551,
+          "bbox": [
+            978.3,
+            668.7,
+            1276.9,
+            737.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 1,
+      "timestamp_ms": 33.333333333333336,
+      "inference_time_ms": 17.54,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.702
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.773,
+          "bbox": [
+            1287.0,
+            608.7,
+            1396.6,
+            639.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.691,
+          "bbox": [
+            963.0,
+            677.4,
+            1274.2,
+            743.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.641,
+          "bbox": [
+            1286.4,
+            601.2,
+            1393.1,
+            624.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 2,
+      "timestamp_ms": 66.66666666666667,
+      "inference_time_ms": 17.06,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 3
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.631
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.658,
+          "bbox": [
+            1275.5,
+            611.6,
+            1389.5,
+            644.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.658,
+          "bbox": [
+            918.3,
+            680.9,
+            1250.8,
+            752.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.576,
+          "bbox": [
+            1277.1,
+            609.4,
+            1385.5,
+            628.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 3,
+      "timestamp_ms": 100.0,
+      "inference_time_ms": 16.58,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.694
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.73,
+          "bbox": [
+            898.4,
+            682.4,
+            1238.7,
+            767.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.658,
+          "bbox": [
+            1266.9,
+            612.5,
+            1385.3,
+            643.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "timestamp_ms": 133.33333333333334,
+      "inference_time_ms": 15.68,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.726
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.801,
+          "bbox": [
+            878.5,
+            686.5,
+            1227.6,
+            775.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.651,
+          "bbox": [
+            1264.1,
+            613.5,
+            1378.2,
+            642.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "timestamp_ms": 166.66666666666666,
+      "inference_time_ms": 15.96,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.725
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.801,
+          "bbox": [
+            878.4,
+            686.5,
+            1227.7,
+            775.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.65,
+          "bbox": [
+            1264.1,
+            613.6,
+            1378.3,
+            642.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "timestamp_ms": 200.0,
+      "inference_time_ms": 15.83,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.76
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.773,
+          "bbox": [
+            841.8,
+            690.9,
+            1213.9,
+            792.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.747,
+          "bbox": [
+            1244.3,
+            612.9,
+            1361.7,
+            645.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "timestamp_ms": 233.33333333333334,
+      "inference_time_ms": 16.13,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.771,
+        "box": 0.274
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.785,
+          "bbox": [
+            1235.4,
+            617.2,
+            1359.7,
+            653.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.757,
+          "bbox": [
+            815.3,
+            696.0,
+            1194.3,
+            790.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.274,
+          "bbox": [
+            801.7,
+            694.8,
+            1201.0,
+            797.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "timestamp_ms": 266.6666666666667,
+      "inference_time_ms": 16.23,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.672,
+        "box": 0.337
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.698,
+          "bbox": [
+            1220.7,
+            618.0,
+            1348.1,
+            654.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.646,
+          "bbox": [
+            772.0,
+            694.9,
+            1138.0,
+            794.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.337,
+          "bbox": [
+            771.0,
+            691.6,
+            1137.6,
+            796.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "timestamp_ms": 300.0,
+      "inference_time_ms": 17.25,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.646,
+        "box": 0.586
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.695,
+          "bbox": [
+            1210.0,
+            619.1,
+            1339.3,
+            659.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.597,
+          "bbox": [
+            743.1,
+            694.3,
+            1125.1,
+            814.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.586,
+          "bbox": [
+            733.2,
+            695.2,
+            1114.3,
+            807.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "timestamp_ms": 333.3333333333333,
+      "inference_time_ms": 17.58,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.714,
+        "box": 0.346
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.723,
+          "bbox": [
+            704.4,
+            703.6,
+            1100.5,
+            827.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.705,
+          "bbox": [
+            1211.0,
+            623.4,
+            1337.9,
+            667.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.346,
+          "bbox": [
+            691.6,
+            702.4,
+            1098.1,
+            825.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "timestamp_ms": 366.66666666666663,
+      "inference_time_ms": 19.82,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.714,
+        "box": 0.346
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.724,
+          "bbox": [
+            704.5,
+            703.6,
+            1100.5,
+            827.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.705,
+          "bbox": [
+            1211.0,
+            623.4,
+            1337.9,
+            667.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.346,
+          "bbox": [
+            691.9,
+            702.2,
+            1098.2,
+            825.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "timestamp_ms": 400.0,
+      "inference_time_ms": 17.86,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.778,
+        "box": 0.492
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.799,
+          "bbox": [
+            1195.7,
+            622.3,
+            1322.7,
+            671.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.758,
+          "bbox": [
+            667.2,
+            718.7,
+            1096.5,
+            848.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.492,
+          "bbox": [
+            647.6,
+            716.2,
+            1073.7,
+            843.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "timestamp_ms": 433.33333333333337,
+      "inference_time_ms": 15.98,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.758,
+        "box": 0.505
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.834,
+          "bbox": [
+            1185.4,
+            625.0,
+            1314.4,
+            674.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.681,
+          "bbox": [
+            630.5,
+            719.3,
+            1070.5,
+            853.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.505,
+          "bbox": [
+            610.8,
+            714.9,
+            1045.9,
+            848.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "timestamp_ms": 466.6666666666667,
+      "inference_time_ms": 17.69,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.698,
+        "box": 0.258
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.699,
+          "bbox": [
+            1169.6,
+            637.5,
+            1306.0,
+            668.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.697,
+          "bbox": [
+            556.2,
+            720.7,
+            1025.9,
+            865.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.258,
+          "bbox": [
+            1166.5,
+            630.7,
+            1302.6,
+            675.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "timestamp_ms": 500.0,
+      "inference_time_ms": 16.31,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 3,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.517,
+        "box": 0.286
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.713,
+          "bbox": [
+            1162.4,
+            639.2,
+            1299.3,
+            668.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.541,
+          "bbox": [
+            524.1,
+            725.3,
+            1005.6,
+            873.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.299,
+          "bbox": [
+            1156.9,
+            624.3,
+            1287.7,
+            660.8
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.286,
+          "bbox": [
+            1149.1,
+            636.9,
+            1295.5,
+            677.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "timestamp_ms": 533.3333333333334,
+      "inference_time_ms": 15.82,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 3,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.492,
+        "box": 0.253
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.708,
+          "bbox": [
+            1153.7,
+            641.2,
+            1291.7,
+            674.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.495,
+          "bbox": [
+            476.8,
+            738.4,
+            973.6,
+            869.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.274,
+          "bbox": [
+            1149.7,
+            624.3,
+            1283.6,
+            663.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.253,
+          "bbox": [
+            1137.4,
+            637.8,
+            1284.9,
+            681.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "timestamp_ms": 566.6666666666666,
+      "inference_time_ms": 17.28,
+      "num_detections": 4,
+      "class_counts": {
+        "mailer": 3,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.492,
+        "box": 0.252
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.709,
+          "bbox": [
+            1153.7,
+            641.2,
+            1291.7,
+            674.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.495,
+          "bbox": [
+            476.8,
+            738.4,
+            973.5,
+            869.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.273,
+          "bbox": [
+            1149.8,
+            624.3,
+            1283.6,
+            663.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.252,
+          "bbox": [
+            1147.8,
+            638.2,
+            1288.7,
+            680.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "timestamp_ms": 600.0,
+      "inference_time_ms": 15.83,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.554,
+        "box": 0.268
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.755,
+          "bbox": [
+            1130.4,
+            641.3,
+            1271.7,
+            684.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.352,
+          "bbox": [
+            429.5,
+            737.2,
+            930.3,
+            885.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.268,
+          "bbox": [
+            1122.6,
+            637.9,
+            1276.4,
+            684.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "timestamp_ms": 633.3333333333333,
+      "inference_time_ms": 15.61,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.814
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.814,
+          "bbox": [
+            1124.9,
+            644.1,
+            1271.6,
+            690.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "timestamp_ms": 666.6666666666666,
+      "inference_time_ms": 16.13,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.819
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.819,
+          "bbox": [
+            1116.2,
+            646.2,
+            1265.5,
+            693.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "timestamp_ms": 700.0,
+      "inference_time_ms": 15.47,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.787
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.787,
+          "bbox": [
+            1114.8,
+            646.2,
+            1263.2,
+            692.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "timestamp_ms": 733.3333333333333,
+      "inference_time_ms": 15.83,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.795
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.795,
+          "bbox": [
+            1116.9,
+            645.9,
+            1263.6,
+            692.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "timestamp_ms": 766.6666666666667,
+      "inference_time_ms": 17.7,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.794
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.794,
+          "bbox": [
+            1116.9,
+            645.9,
+            1263.6,
+            692.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "timestamp_ms": 800.0,
+      "inference_time_ms": 19.07,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.821
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.821,
+          "bbox": [
+            1116.5,
+            646.3,
+            1264.5,
+            693.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "timestamp_ms": 833.3333333333334,
+      "inference_time_ms": 26.43,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.796
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.796,
+          "bbox": [
+            1117.2,
+            646.3,
+            1263.4,
+            693.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "timestamp_ms": 866.6666666666667,
+      "inference_time_ms": 14.38,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.779,
+        "box": 0.254
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.779,
+          "bbox": [
+            1117.3,
+            646.0,
+            1264.6,
+            692.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.254,
+          "bbox": [
+            1103.1,
+            639.1,
+            1263.0,
+            690.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "timestamp_ms": 900.0,
+      "inference_time_ms": 15.82,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.799
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.799,
+          "bbox": [
+            1116.1,
+            646.0,
+            1266.0,
+            693.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "timestamp_ms": 933.3333333333334,
+      "inference_time_ms": 15.27,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.805
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.805,
+          "bbox": [
+            1116.1,
+            646.0,
+            1268.3,
+            693.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "timestamp_ms": 966.6666666666666,
+      "inference_time_ms": 18.12,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.804
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.804,
+          "bbox": [
+            1116.2,
+            646.0,
+            1268.4,
+            693.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "timestamp_ms": 1000.0,
+      "inference_time_ms": 15.56,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.809
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.809,
+          "bbox": [
+            1115.9,
+            645.8,
+            1267.9,
+            693.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "timestamp_ms": 1033.3333333333335,
+      "inference_time_ms": 15.4,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.792,
+        "box": 0.256
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.792,
+          "bbox": [
+            1116.2,
+            645.0,
+            1267.6,
+            692.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.256,
+          "bbox": [
+            1102.0,
+            640.4,
+            1265.1,
+            689.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "timestamp_ms": 1066.6666666666667,
+      "inference_time_ms": 15.84,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.85
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.85,
+          "bbox": [
+            1117.5,
+            645.4,
+            1264.6,
+            690.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "timestamp_ms": 1100.0,
+      "inference_time_ms": 15.27,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.852
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.852,
+          "bbox": [
+            1117.2,
+            645.5,
+            1266.6,
+            691.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "timestamp_ms": 1133.3333333333333,
+      "inference_time_ms": 15.95,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.841
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.841,
+          "bbox": [
+            1117.9,
+            645.6,
+            1266.0,
+            691.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "timestamp_ms": 1166.6666666666667,
+      "inference_time_ms": 15.59,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.84
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.84,
+          "bbox": [
+            1117.9,
+            645.6,
+            1266.0,
+            691.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "timestamp_ms": 1200.0,
+      "inference_time_ms": 15.58,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.851
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.851,
+          "bbox": [
+            1117.4,
+            645.0,
+            1266.2,
+            691.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "timestamp_ms": 1233.3333333333335,
+      "inference_time_ms": 15.1,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.861
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.861,
+          "bbox": [
+            1116.1,
+            645.9,
+            1264.0,
+            691.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "timestamp_ms": 1266.6666666666665,
+      "inference_time_ms": 15.71,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.755
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.755,
+          "bbox": [
+            1098.2,
+            646.3,
+            1256.6,
+            692.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "timestamp_ms": 1300.0,
+      "inference_time_ms": 16.77,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.776
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.776,
+          "bbox": [
+            1089.3,
+            648.1,
+            1252.5,
+            694.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "timestamp_ms": 1333.3333333333333,
+      "inference_time_ms": 15.51,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.747
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.747,
+          "bbox": [
+            1083.2,
+            648.6,
+            1242.3,
+            698.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 41,
+      "timestamp_ms": 1366.6666666666667,
+      "inference_time_ms": 15.74,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.749
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.749,
+          "bbox": [
+            1083.1,
+            648.7,
+            1242.0,
+            698.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 42,
+      "timestamp_ms": 1400.0,
+      "inference_time_ms": 15.74,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.773
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.773,
+          "bbox": [
+            1052.8,
+            654.6,
+            1219.7,
+            701.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 43,
+      "timestamp_ms": 1433.3333333333333,
+      "inference_time_ms": 20.32,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.835
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.835,
+          "bbox": [
+            1038.2,
+            659.7,
+            1209.8,
+            705.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 44,
+      "timestamp_ms": 1466.6666666666665,
+      "inference_time_ms": 20.21,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.82
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.82,
+          "bbox": [
+            1020.5,
+            662.4,
+            1189.8,
+            719.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 45,
+      "timestamp_ms": 1500.0,
+      "inference_time_ms": 20.44,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.839
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.839,
+          "bbox": [
+            1000.9,
+            664.6,
+            1174.4,
+            722.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 46,
+      "timestamp_ms": 1533.3333333333335,
+      "inference_time_ms": 18.95,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.802
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.802,
+          "bbox": [
+            983.7,
+            670.8,
+            1168.0,
+            727.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 47,
+      "timestamp_ms": 1566.6666666666667,
+      "inference_time_ms": 19.11,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.8
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.8,
+          "bbox": [
+            983.7,
+            670.8,
+            1168.0,
+            727.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 48,
+      "timestamp_ms": 1600.0,
+      "inference_time_ms": 15.61,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 1,
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "box": 0.797,
+        "mailer": 0.554
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.797,
+          "bbox": [
+            1262.2,
+            574.4,
+            1415.0,
+            643.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.766,
+          "bbox": [
+            954.2,
+            681.0,
+            1144.2,
+            741.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.343,
+          "bbox": [
+            944.5,
+            699.2,
+            1071.2,
+            743.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 49,
+      "timestamp_ms": 1633.3333333333333,
+      "inference_time_ms": 15.9,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.812,
+        "mailer": 0.785
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.812,
+          "bbox": [
+            1261.9,
+            574.5,
+            1412.0,
+            647.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.785,
+          "bbox": [
+            924.6,
+            688.3,
+            1128.6,
+            745.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 50,
+      "timestamp_ms": 1666.6666666666667,
+      "inference_time_ms": 15.54,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.879,
+        "mailer": 0.845
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.879,
+          "bbox": [
+            1242.5,
+            572.3,
+            1402.5,
+            654.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.845,
+          "bbox": [
+            899.1,
+            690.7,
+            1097.8,
+            751.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 51,
+      "timestamp_ms": 1700.0,
+      "inference_time_ms": 15.42,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.885,
+        "mailer": 0.81
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.885,
+          "bbox": [
+            1243.5,
+            573.5,
+            1395.2,
+            652.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.81,
+          "bbox": [
+            869.7,
+            692.0,
+            1081.4,
+            757.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 52,
+      "timestamp_ms": 1733.3333333333335,
+      "inference_time_ms": 15.59,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.897,
+        "mailer": 0.817
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.897,
+          "bbox": [
+            1233.7,
+            574.1,
+            1389.1,
+            654.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.817,
+          "bbox": [
+            844.6,
+            691.3,
+            1070.6,
+            757.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 53,
+      "timestamp_ms": 1766.6666666666665,
+      "inference_time_ms": 22.25,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.897,
+        "mailer": 0.818
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.897,
+          "bbox": [
+            1233.7,
+            573.9,
+            1389.1,
+            654.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.818,
+          "bbox": [
+            844.5,
+            691.3,
+            1070.7,
+            757.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 54,
+      "timestamp_ms": 1800.0,
+      "inference_time_ms": 25.52,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.579,
+        "mailer": 0.728
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.893,
+          "bbox": [
+            1224.3,
+            577.6,
+            1379.9,
+            660.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.728,
+          "bbox": [
+            797.5,
+            704.2,
+            1034.6,
+            781.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.264,
+          "bbox": [
+            787.4,
+            705.9,
+            1031.8,
+            778.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 55,
+      "timestamp_ms": 1833.3333333333333,
+      "inference_time_ms": 44.03,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.593,
+        "mailer": 0.77
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.895,
+          "bbox": [
+            1211.6,
+            575.7,
+            1374.4,
+            664.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.77,
+          "bbox": [
+            770.8,
+            715.0,
+            1006.3,
+            792.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.29,
+          "bbox": [
+            741.6,
+            704.3,
+            1000.4,
+            789.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 56,
+      "timestamp_ms": 1866.6666666666667,
+      "inference_time_ms": 19.13,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.534,
+        "mailer": 0.816
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.816,
+          "bbox": [
+            1198.4,
+            579.4,
+            1367.0,
+            665.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.816,
+          "bbox": [
+            724.6,
+            718.5,
+            972.9,
+            800.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.252,
+          "bbox": [
+            705.6,
+            710.1,
+            973.1,
+            798.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 57,
+      "timestamp_ms": 1900.0,
+      "inference_time_ms": 15.97,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 1,
+        "box": 2
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.795,
+        "box": 0.508
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.795,
+          "bbox": [
+            683.3,
+            719.3,
+            945.1,
+            809.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.762,
+          "bbox": [
+            1176.8,
+            581.4,
+            1360.4,
+            673.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.254,
+          "bbox": [
+            664.1,
+            715.3,
+            942.5,
+            808.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 58,
+      "timestamp_ms": 1933.3333333333333,
+      "inference_time_ms": 15.19,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.84,
+        "mailer": 0.758
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.84,
+          "bbox": [
+            1179.0,
+            586.0,
+            1353.4,
+            675.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.758,
+          "bbox": [
+            654.4,
+            730.5,
+            927.1,
+            823.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 59,
+      "timestamp_ms": 1966.6666666666665,
+      "inference_time_ms": 15.76,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.843,
+        "mailer": 0.759
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.843,
+          "bbox": [
+            1179.0,
+            586.0,
+            1353.4,
+            675.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.759,
+          "bbox": [
+            654.3,
+            730.4,
+            927.1,
+            823.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 60,
+      "timestamp_ms": 2000.0,
+      "inference_time_ms": 15.75,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.549,
+        "mailer": 0.669
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.803,
+          "bbox": [
+            1165.2,
+            589.5,
+            1335.3,
+            683.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.669,
+          "bbox": [
+            591.1,
+            731.3,
+            871.1,
+            840.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.295,
+          "bbox": [
+            576.4,
+            733.7,
+            868.9,
+            834.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 61,
+      "timestamp_ms": 2033.3333333333333,
+      "inference_time_ms": 16.49,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.612,
+        "mailer": 0.631
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.847,
+          "bbox": [
+            1156.6,
+            590.6,
+            1328.7,
+            685.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.631,
+          "bbox": [
+            550.1,
+            740.2,
+            827.8,
+            845.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.377,
+          "bbox": [
+            552.6,
+            749.0,
+            842.1,
+            837.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 62,
+      "timestamp_ms": 2066.666666666667,
+      "inference_time_ms": 15.19,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 2,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.586,
+        "mailer": 0.659
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.862,
+          "bbox": [
+            1147.2,
+            595.1,
+            1319.4,
+            692.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.659,
+          "bbox": [
+            483.6,
+            750.1,
+            787.1,
+            849.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.309,
+          "bbox": [
+            486.5,
+            755.2,
+            791.8,
+            841.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 63,
+      "timestamp_ms": 2100.0,
+      "inference_time_ms": 15.27,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.898,
+        "mailer": 0.694
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.898,
+          "bbox": [
+            1138.2,
+            593.9,
+            1312.6,
+            692.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.694,
+          "bbox": [
+            441.8,
+            759.7,
+            741.3,
+            847.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 64,
+      "timestamp_ms": 2133.3333333333335,
+      "inference_time_ms": 15.48,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.928,
+        "mailer": 0.718
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.928,
+          "bbox": [
+            1127.9,
+            594.3,
+            1306.1,
+            695.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.718,
+          "bbox": [
+            398.7,
+            768.8,
+            701.7,
+            851.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 65,
+      "timestamp_ms": 2166.6666666666665,
+      "inference_time_ms": 15.3,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.928,
+        "mailer": 0.718
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.928,
+          "bbox": [
+            1127.9,
+            594.2,
+            1306.1,
+            695.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.718,
+          "bbox": [
+            398.7,
+            768.8,
+            701.7,
+            851.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 66,
+      "timestamp_ms": 2200.0,
+      "inference_time_ms": 15.55,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.954,
+        "mailer": 0.664
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.954,
+          "bbox": [
+            1118.9,
+            596.9,
+            1299.2,
+            698.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.664,
+          "bbox": [
+            320.6,
+            779.2,
+            633.8,
+            854.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 67,
+      "timestamp_ms": 2233.3333333333335,
+      "inference_time_ms": 31.81,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.933,
+        "mailer": 0.427
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.933,
+          "bbox": [
+            1116.7,
+            597.8,
+            1296.5,
+            697.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.427,
+          "bbox": [
+            290.3,
+            790.6,
+            595.4,
+            857.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 68,
+      "timestamp_ms": 2266.6666666666665,
+      "inference_time_ms": 24.84,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.939,
+        "mailer": 0.411
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.939,
+          "bbox": [
+            1115.8,
+            597.3,
+            1297.2,
+            698.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.411,
+          "bbox": [
+            208.3,
+            795.1,
+            498.5,
+            864.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 69,
+      "timestamp_ms": 2300.0,
+      "inference_time_ms": 17.6,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.953
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.953,
+          "bbox": [
+            1115.4,
+            597.2,
+            1297.8,
+            698.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 70,
+      "timestamp_ms": 2333.3333333333335,
+      "inference_time_ms": 15.35,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.955
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.955,
+          "bbox": [
+            1115.2,
+            597.2,
+            1297.1,
+            698.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 71,
+      "timestamp_ms": 2366.6666666666665,
+      "inference_time_ms": 15.48,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.953
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.953,
+          "bbox": [
+            1115.4,
+            597.2,
+            1297.3,
+            698.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 72,
+      "timestamp_ms": 2400.0,
+      "inference_time_ms": 16.95,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.953
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.953,
+          "bbox": [
+            1115.0,
+            596.5,
+            1297.3,
+            698.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 73,
+      "timestamp_ms": 2433.333333333333,
+      "inference_time_ms": 17.73,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.957
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.957,
+          "bbox": [
+            1115.1,
+            596.8,
+            1297.2,
+            698.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 74,
+      "timestamp_ms": 2466.666666666667,
+      "inference_time_ms": 15.79,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.949
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.949,
+          "bbox": [
+            1116.0,
+            597.4,
+            1297.3,
+            698.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 75,
+      "timestamp_ms": 2500.0,
+      "inference_time_ms": 14.99,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.945
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.945,
+          "bbox": [
+            1116.0,
+            597.5,
+            1297.6,
+            699.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 76,
+      "timestamp_ms": 2533.333333333333,
+      "inference_time_ms": 14.81,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.937
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.937,
+          "bbox": [
+            1116.4,
+            597.9,
+            1297.8,
+            698.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 77,
+      "timestamp_ms": 2566.666666666667,
+      "inference_time_ms": 15.95,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.937
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.937,
+          "bbox": [
+            1116.4,
+            597.9,
+            1297.8,
+            698.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 78,
+      "timestamp_ms": 2600.0,
+      "inference_time_ms": 15.07,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.928
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.928,
+          "bbox": [
+            1116.6,
+            597.5,
+            1297.1,
+            698.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 79,
+      "timestamp_ms": 2633.3333333333335,
+      "inference_time_ms": 14.84,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.939
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.939,
+          "bbox": [
+            1115.9,
+            596.9,
+            1296.7,
+            698.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 80,
+      "timestamp_ms": 2666.6666666666665,
+      "inference_time_ms": 17.38,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.944
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.944,
+          "bbox": [
+            1117.3,
+            597.9,
+            1298.4,
+            698.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 81,
+      "timestamp_ms": 2700.0,
+      "inference_time_ms": 18.63,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.932
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.932,
+          "bbox": [
+            1116.8,
+            598.8,
+            1298.5,
+            698.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 82,
+      "timestamp_ms": 2733.3333333333335,
+      "inference_time_ms": 14.92,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.938
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.938,
+          "bbox": [
+            1116.7,
+            598.4,
+            1299.1,
+            698.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 83,
+      "timestamp_ms": 2766.6666666666665,
+      "inference_time_ms": 27.93,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.939
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.939,
+          "bbox": [
+            1116.7,
+            598.1,
+            1299.0,
+            698.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 84,
+      "timestamp_ms": 2800.0,
+      "inference_time_ms": 16.45,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.939
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.939,
+          "bbox": [
+            1116.2,
+            598.4,
+            1298.0,
+            698.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 85,
+      "timestamp_ms": 2833.3333333333335,
+      "inference_time_ms": 18.38,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.933
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.933,
+          "bbox": [
+            1116.6,
+            598.7,
+            1298.9,
+            698.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 86,
+      "timestamp_ms": 2866.6666666666665,
+      "inference_time_ms": 15.6,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.924
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.924,
+          "bbox": [
+            1117.3,
+            599.5,
+            1299.9,
+            698.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 87,
+      "timestamp_ms": 2900.0,
+      "inference_time_ms": 26.56,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.915
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.915,
+          "bbox": [
+            1115.2,
+            603.4,
+            1296.8,
+            697.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 88,
+      "timestamp_ms": 2933.333333333333,
+      "inference_time_ms": 17.52,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.924
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.924,
+          "bbox": [
+            1117.7,
+            598.6,
+            1300.1,
+            698.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 89,
+      "timestamp_ms": 2966.666666666667,
+      "inference_time_ms": 18.1,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.924
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.924,
+          "bbox": [
+            1117.7,
+            598.5,
+            1300.1,
+            698.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 90,
+      "timestamp_ms": 3000.0,
+      "inference_time_ms": 15.86,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.921
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.921,
+          "bbox": [
+            1114.7,
+            603.4,
+            1297.4,
+            697.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 91,
+      "timestamp_ms": 3033.333333333333,
+      "inference_time_ms": 14.88,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.902
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.902,
+          "bbox": [
+            1119.5,
+            597.5,
+            1297.8,
+            698.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 92,
+      "timestamp_ms": 3066.666666666667,
+      "inference_time_ms": 15.35,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.916
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.916,
+          "bbox": [
+            1114.4,
+            602.3,
+            1297.5,
+            698.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 93,
+      "timestamp_ms": 3100.0,
+      "inference_time_ms": 16.3,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.916
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.916,
+          "bbox": [
+            1114.3,
+            602.2,
+            1298.3,
+            698.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 94,
+      "timestamp_ms": 3133.3333333333335,
+      "inference_time_ms": 15.53,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.905
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.905,
+          "bbox": [
+            1113.5,
+            602.2,
+            1298.9,
+            698.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 95,
+      "timestamp_ms": 3166.6666666666665,
+      "inference_time_ms": 15.48,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.906
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.906,
+          "bbox": [
+            1113.5,
+            602.2,
+            1298.8,
+            698.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 96,
+      "timestamp_ms": 3200.0,
+      "inference_time_ms": 15.61,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.934
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.934,
+          "bbox": [
+            1112.5,
+            599.6,
+            1298.5,
+            699.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 97,
+      "timestamp_ms": 3233.3333333333335,
+      "inference_time_ms": 17.87,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.943
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.943,
+          "bbox": [
+            1111.2,
+            595.9,
+            1294.7,
+            701.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 98,
+      "timestamp_ms": 3266.6666666666665,
+      "inference_time_ms": 16.58,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.951
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.951,
+          "bbox": [
+            1096.4,
+            599.1,
+            1284.0,
+            702.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 99,
+      "timestamp_ms": 3300.0,
+      "inference_time_ms": 15.75,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.958
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.958,
+          "bbox": [
+            1083.6,
+            602.4,
+            1276.9,
+            705.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 100,
+      "timestamp_ms": 3333.3333333333335,
+      "inference_time_ms": 16.16,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.944
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.944,
+          "bbox": [
+            1067.3,
+            600.4,
+            1267.1,
+            710.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 101,
+      "timestamp_ms": 3366.6666666666665,
+      "inference_time_ms": 17.83,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.944
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.944,
+          "bbox": [
+            1067.3,
+            600.4,
+            1267.1,
+            710.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 102,
+      "timestamp_ms": 3400.0,
+      "inference_time_ms": 16.14,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.943,
+        "mailer": 0.804
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.943,
+          "bbox": [
+            1042.0,
+            603.2,
+            1247.0,
+            720.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.804,
+          "bbox": [
+            1248.1,
+            584.6,
+            1477.0,
+            641.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 103,
+      "timestamp_ms": 3433.333333333333,
+      "inference_time_ms": 15.67,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.935,
+        "mailer": 0.856
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.935,
+          "bbox": [
+            1021.2,
+            600.8,
+            1232.8,
+            727.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.856,
+          "bbox": [
+            1259.7,
+            585.4,
+            1472.6,
+            644.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 104,
+      "timestamp_ms": 3466.666666666667,
+      "inference_time_ms": 16.01,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.899,
+        "mailer": 0.896
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.899,
+          "bbox": [
+            993.2,
+            606.6,
+            1221.9,
+            735.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.896,
+          "bbox": [
+            1248.4,
+            590.1,
+            1471.2,
+            647.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 105,
+      "timestamp_ms": 3500.0,
+      "inference_time_ms": 15.81,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.905,
+        "box": 0.784
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.905,
+          "bbox": [
+            1235.7,
+            592.1,
+            1459.3,
+            647.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.784,
+          "bbox": [
+            966.6,
+            613.1,
+            1203.2,
+            743.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 106,
+      "timestamp_ms": 3533.333333333333,
+      "inference_time_ms": 28.98,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.914,
+        "box": 0.797
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.914,
+          "bbox": [
+            1224.8,
+            593.1,
+            1454.9,
+            649.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.797,
+          "bbox": [
+            959.0,
+            629.6,
+            1187.3,
+            753.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 107,
+      "timestamp_ms": 3566.666666666667,
+      "inference_time_ms": 16.62,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.915,
+        "box": 0.795
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.915,
+          "bbox": [
+            1224.8,
+            593.0,
+            1455.0,
+            649.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.795,
+          "bbox": [
+            958.9,
+            629.7,
+            1187.3,
+            753.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 108,
+      "timestamp_ms": 3600.0,
+      "inference_time_ms": 17.05,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.919,
+        "box": 0.648
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.919,
+          "bbox": [
+            1212.9,
+            591.5,
+            1459.0,
+            653.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.648,
+          "bbox": [
+            927.2,
+            641.6,
+            1147.9,
+            758.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 109,
+      "timestamp_ms": 3633.3333333333335,
+      "inference_time_ms": 22.59,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.938,
+        "box": 0.722
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.938,
+          "bbox": [
+            1202.1,
+            588.7,
+            1439.0,
+            655.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.722,
+          "bbox": [
+            893.0,
+            640.1,
+            1136.8,
+            764.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 110,
+      "timestamp_ms": 3666.6666666666665,
+      "inference_time_ms": 17.3,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.939,
+        "mailer": 0.911
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.939,
+          "bbox": [
+            859.9,
+            642.9,
+            1119.4,
+            770.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.911,
+          "bbox": [
+            1186.7,
+            590.8,
+            1435.8,
+            659.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 111,
+      "timestamp_ms": 3700.0,
+      "inference_time_ms": 16.19,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.921,
+        "mailer": 0.901
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.921,
+          "bbox": [
+            830.7,
+            644.0,
+            1093.9,
+            779.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.901,
+          "bbox": [
+            1176.8,
+            592.2,
+            1432.4,
+            662.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 112,
+      "timestamp_ms": 3733.3333333333335,
+      "inference_time_ms": 15.83,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.949,
+        "mailer": 0.9
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.949,
+          "bbox": [
+            803.2,
+            648.8,
+            1078.9,
+            798.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.9,
+          "bbox": [
+            1166.9,
+            593.8,
+            1431.7,
+            665.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 113,
+      "timestamp_ms": 3766.6666666666665,
+      "inference_time_ms": 16.48,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.95,
+        "mailer": 0.9
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.95,
+          "bbox": [
+            803.2,
+            648.6,
+            1079.0,
+            798.2
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.9,
+          "bbox": [
+            1167.0,
+            593.8,
+            1431.7,
+            665.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 114,
+      "timestamp_ms": 3800.0,
+      "inference_time_ms": 16.08,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.961,
+        "mailer": 0.901
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.961,
+          "bbox": [
+            752.2,
+            652.4,
+            1044.1,
+            812.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.901,
+          "bbox": [
+            1151.7,
+            597.0,
+            1423.8,
+            675.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 115,
+      "timestamp_ms": 3833.3333333333335,
+      "inference_time_ms": 15.56,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.966,
+        "mailer": 0.917
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.966,
+          "bbox": [
+            726.7,
+            655.0,
+            1015.4,
+            822.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.917,
+          "bbox": [
+            1144.1,
+            597.9,
+            1419.6,
+            679.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 116,
+      "timestamp_ms": 3866.6666666666665,
+      "inference_time_ms": 15.6,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.969,
+        "mailer": 0.909
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.969,
+          "bbox": [
+            674.6,
+            661.0,
+            988.2,
+            836.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.909,
+          "bbox": [
+            1123.4,
+            603.2,
+            1410.6,
+            686.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 117,
+      "timestamp_ms": 3900.0,
+      "inference_time_ms": 17.12,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.979,
+        "mailer": 0.901
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.979,
+          "bbox": [
+            638.0,
+            660.6,
+            961.1,
+            845.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.901,
+          "bbox": [
+            1113.5,
+            605.3,
+            1407.4,
+            689.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 118,
+      "timestamp_ms": 3933.333333333333,
+      "inference_time_ms": 15.76,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.954,
+        "mailer": 0.88
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.954,
+          "bbox": [
+            590.7,
+            658.4,
+            933.6,
+            860.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.88,
+          "bbox": [
+            1110.7,
+            607.7,
+            1400.5,
+            690.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 119,
+      "timestamp_ms": 3966.666666666667,
+      "inference_time_ms": 15.62,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.954,
+        "mailer": 0.881
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.954,
+          "bbox": [
+            590.7,
+            658.4,
+            933.7,
+            860.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.881,
+          "bbox": [
+            1110.7,
+            607.7,
+            1400.6,
+            690.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 120,
+      "timestamp_ms": 4000.0,
+      "inference_time_ms": 16.02,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.955,
+        "mailer": 0.901
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.955,
+          "bbox": [
+            529.9,
+            670.2,
+            903.4,
+            873.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.901,
+          "bbox": [
+            1094.1,
+            612.6,
+            1389.8,
+            693.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 121,
+      "timestamp_ms": 4033.333333333333,
+      "inference_time_ms": 15.59,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.937,
+        "mailer": 0.921
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.937,
+          "bbox": [
+            491.6,
+            676.1,
+            866.7,
+            868.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.921,
+          "bbox": [
+            1076.8,
+            614.4,
+            1378.7,
+            697.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 122,
+      "timestamp_ms": 4066.6666666666665,
+      "inference_time_ms": 16.74,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.921,
+        "box": 0.921
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.921,
+          "bbox": [
+            1051.0,
+            614.6,
+            1364.1,
+            703.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.921,
+          "bbox": [
+            422.0,
+            679.8,
+            806.7,
+            913.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 123,
+      "timestamp_ms": 4100.0,
+      "inference_time_ms": 15.88,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.937,
+        "box": 0.923
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.937,
+          "bbox": [
+            1031.0,
+            616.1,
+            1358.7,
+            706.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.923,
+          "bbox": [
+            366.0,
+            681.7,
+            771.7,
+            937.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 124,
+      "timestamp_ms": 4133.333333333334,
+      "inference_time_ms": 15.71,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.934,
+        "box": 0.906
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.934,
+          "bbox": [
+            1014.1,
+            619.7,
+            1353.6,
+            708.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.906,
+          "bbox": [
+            314.3,
+            673.5,
+            728.9,
+            955.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 125,
+      "timestamp_ms": 4166.666666666667,
+      "inference_time_ms": 16.87,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.933,
+        "box": 0.904
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.933,
+          "bbox": [
+            1014.2,
+            619.7,
+            1353.5,
+            708.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.904,
+          "bbox": [
+            314.5,
+            673.5,
+            728.8,
+            955.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 126,
+      "timestamp_ms": 4200.0,
+      "inference_time_ms": 16.0,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.939,
+        "box": 0.913
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.939,
+          "bbox": [
+            998.1,
+            621.0,
+            1343.8,
+            718.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.913,
+          "bbox": [
+            252.2,
+            680.0,
+            675.3,
+            970.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 127,
+      "timestamp_ms": 4233.333333333333,
+      "inference_time_ms": 15.56,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.919,
+        "box": 0.807
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.919,
+          "bbox": [
+            981.2,
+            624.1,
+            1324.7,
+            731.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.807,
+          "bbox": [
+            173.9,
+            678.9,
+            639.6,
+            994.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 128,
+      "timestamp_ms": 4266.666666666667,
+      "inference_time_ms": 15.75,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.949,
+        "mailer": 0.91
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.949,
+          "bbox": [
+            124.3,
+            694.6,
+            549.4,
+            1002.9
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.91,
+          "bbox": [
+            961.9,
+            631.4,
+            1308.8,
+            735.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 129,
+      "timestamp_ms": 4300.0,
+      "inference_time_ms": 20.31,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.881,
+        "box": 0.847
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.881,
+          "bbox": [
+            980.3,
+            636.5,
+            1296.6,
+            738.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.847,
+          "bbox": [
+            52.2,
+            687.6,
+            508.3,
+            1021.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 130,
+      "timestamp_ms": 4333.333333333333,
+      "inference_time_ms": 15.66,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.863,
+        "mailer": 0.842
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.863,
+          "bbox": [
+            26.0,
+            709.1,
+            437.4,
+            1029.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.842,
+          "bbox": [
+            936.7,
+            637.9,
+            1293.0,
+            753.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 131,
+      "timestamp_ms": 4366.666666666666,
+      "inference_time_ms": 17.96,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.864,
+        "mailer": 0.842
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.864,
+          "bbox": [
+            26.1,
+            709.2,
+            437.2,
+            1029.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.842,
+          "bbox": [
+            937.1,
+            638.0,
+            1292.9,
+            753.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 132,
+      "timestamp_ms": 4400.0,
+      "inference_time_ms": 18.06,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.855,
+        "box": 0.417
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.855,
+          "bbox": [
+            901.6,
+            641.8,
+            1282.0,
+            762.9
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.417,
+          "bbox": [
+            0.0,
+            695.6,
+            363.7,
+            1050.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 133,
+      "timestamp_ms": 4433.333333333334,
+      "inference_time_ms": 26.58,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.806
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.806,
+          "bbox": [
+            871.6,
+            643.6,
+            1265.1,
+            775.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 134,
+      "timestamp_ms": 4466.666666666667,
+      "inference_time_ms": 25.57,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.863
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.863,
+          "bbox": [
+            837.1,
+            643.2,
+            1245.5,
+            792.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 135,
+      "timestamp_ms": 4500.0,
+      "inference_time_ms": 32.94,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.883
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.883,
+          "bbox": [
+            803.4,
+            649.6,
+            1232.1,
+            800.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 136,
+      "timestamp_ms": 4533.333333333333,
+      "inference_time_ms": 26.34,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.882
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.882,
+          "bbox": [
+            765.2,
+            653.9,
+            1227.5,
+            805.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 137,
+      "timestamp_ms": 4566.666666666666,
+      "inference_time_ms": 17.0,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.882
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.882,
+          "bbox": [
+            765.1,
+            653.9,
+            1227.4,
+            805.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 138,
+      "timestamp_ms": 4600.0,
+      "inference_time_ms": 15.73,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.889
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.889,
+          "bbox": [
+            718.8,
+            658.0,
+            1190.5,
+            809.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 139,
+      "timestamp_ms": 4633.333333333334,
+      "inference_time_ms": 15.84,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.881
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.881,
+          "bbox": [
+            696.4,
+            671.8,
+            1167.1,
+            823.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 140,
+      "timestamp_ms": 4666.666666666667,
+      "inference_time_ms": 14.98,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.847
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.847,
+          "bbox": [
+            634.0,
+            663.9,
+            1137.7,
+            833.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 141,
+      "timestamp_ms": 4700.0,
+      "inference_time_ms": 27.03,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.822
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.822,
+          "bbox": [
+            584.1,
+            669.5,
+            1095.7,
+            849.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 142,
+      "timestamp_ms": 4733.333333333333,
+      "inference_time_ms": 15.48,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.792
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.792,
+          "bbox": [
+            553.0,
+            674.6,
+            1076.3,
+            856.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 143,
+      "timestamp_ms": 4766.666666666667,
+      "inference_time_ms": 15.61,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.792
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.792,
+          "bbox": [
+            552.9,
+            674.6,
+            1076.5,
+            856.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 144,
+      "timestamp_ms": 4800.0,
+      "inference_time_ms": 15.46,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.732
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.732,
+          "bbox": [
+            475.0,
+            681.4,
+            1029.2,
+            870.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 145,
+      "timestamp_ms": 4833.333333333333,
+      "inference_time_ms": 19.07,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.733
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.733,
+          "bbox": [
+            475.2,
+            692.0,
+            1008.2,
+            887.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 146,
+      "timestamp_ms": 4866.666666666666,
+      "inference_time_ms": 16.9,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.797
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.797,
+          "bbox": [
+            366.8,
+            702.1,
+            951.1,
+            902.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 147,
+      "timestamp_ms": 4900.0,
+      "inference_time_ms": 19.85,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.792
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.792,
+          "bbox": [
+            325.4,
+            706.4,
+            920.5,
+            913.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 148,
+      "timestamp_ms": 4933.333333333334,
+      "inference_time_ms": 26.0,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.793
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.793,
+          "bbox": [
+            263.8,
+            711.2,
+            902.4,
+            926.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 149,
+      "timestamp_ms": 4966.666666666667,
+      "inference_time_ms": 16.33,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.793
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.793,
+          "bbox": [
+            263.9,
+            711.1,
+            902.5,
+            926.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 150,
+      "timestamp_ms": 5000.0,
+      "inference_time_ms": 15.67,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.773
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.773,
+          "bbox": [
+            212.1,
+            714.7,
+            837.0,
+            950.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 151,
+      "timestamp_ms": 5033.333333333333,
+      "inference_time_ms": 21.69,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.746
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.746,
+          "bbox": [
+            152.9,
+            716.6,
+            793.1,
+            969.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 152,
+      "timestamp_ms": 5066.666666666666,
+      "inference_time_ms": 16.75,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.866,
+        "mailer": 0.64
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.866,
+          "bbox": [
+            1257.5,
+            567.3,
+            1397.2,
+            643.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.64,
+          "bbox": [
+            86.4,
+            722.9,
+            753.2,
+            988.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 153,
+      "timestamp_ms": 5100.0,
+      "inference_time_ms": 16.21,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.844,
+        "mailer": 0.655
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.844,
+          "bbox": [
+            1251.6,
+            567.6,
+            1395.7,
+            641.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.655,
+          "bbox": [
+            48.2,
+            726.4,
+            705.3,
+            1015.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 154,
+      "timestamp_ms": 5133.333333333334,
+      "inference_time_ms": 14.97,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.798,
+        "mailer": 0.653
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.798,
+          "bbox": [
+            1248.2,
+            566.4,
+            1398.8,
+            648.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.653,
+          "bbox": [
+            43.5,
+            736.0,
+            643.5,
+            1033.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 155,
+      "timestamp_ms": 5166.666666666667,
+      "inference_time_ms": 15.39,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.794,
+        "mailer": 0.653
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.794,
+          "bbox": [
+            1248.1,
+            566.4,
+            1398.8,
+            648.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.653,
+          "bbox": [
+            43.0,
+            735.9,
+            643.6,
+            1033.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 156,
+      "timestamp_ms": 5200.0,
+      "inference_time_ms": 38.81,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.647,
+        "box": 0.599
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.647,
+          "bbox": [
+            13.7,
+            746.5,
+            582.6,
+            1056.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.599,
+          "bbox": [
+            1227.7,
+            569.7,
+            1383.4,
+            650.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 157,
+      "timestamp_ms": 5233.333333333333,
+      "inference_time_ms": 15.63,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.714,
+        "box": 0.463
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.714,
+          "bbox": [
+            1.9,
+            748.3,
+            529.1,
+            1080.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.463,
+          "bbox": [
+            1220.5,
+            571.4,
+            1375.1,
+            650.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 158,
+      "timestamp_ms": 5266.666666666667,
+      "inference_time_ms": 15.32,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.818,
+        "mailer": 0.494
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.818,
+          "bbox": [
+            1206.2,
+            572.6,
+            1364.3,
+            655.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.494,
+          "bbox": [
+            0.0,
+            761.1,
+            436.6,
+            1080.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 159,
+      "timestamp_ms": 5300.0,
+      "inference_time_ms": 15.42,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.94
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.94,
+          "bbox": [
+            1203.1,
+            573.7,
+            1359.6,
+            656.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 160,
+      "timestamp_ms": 5333.333333333333,
+      "inference_time_ms": 17.91,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.603
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.603,
+          "bbox": [
+            1186.8,
+            575.7,
+            1355.0,
+            656.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 161,
+      "timestamp_ms": 5366.666666666666,
+      "inference_time_ms": 20.29,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.623
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.623,
+          "bbox": [
+            1187.4,
+            575.5,
+            1354.9,
+            656.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 162,
+      "timestamp_ms": 5400.0,
+      "inference_time_ms": 17.36,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.784,
+        "mailer": 0.593
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.784,
+          "bbox": [
+            1168.7,
+            577.0,
+            1341.8,
+            659.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.593,
+          "bbox": [
+            0.0,
+            793.6,
+            250.7,
+            1076.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 163,
+      "timestamp_ms": 5433.333333333334,
+      "inference_time_ms": 15.72,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.702,
+        "box": 0.662
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.702,
+          "bbox": [
+            0.0,
+            809.2,
+            187.7,
+            1043.7
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.662,
+          "bbox": [
+            1158.5,
+            576.1,
+            1331.7,
+            666.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 164,
+      "timestamp_ms": 5466.666666666667,
+      "inference_time_ms": 15.52,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.563,
+        "mailer": 0.346
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.563,
+          "bbox": [
+            1144.0,
+            577.0,
+            1321.0,
+            672.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.346,
+          "bbox": [
+            0.0,
+            826.3,
+            103.9,
+            989.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 165,
+      "timestamp_ms": 5500.0,
+      "inference_time_ms": 16.94,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.421
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.421,
+          "bbox": [
+            1126.6,
+            581.2,
+            1317.4,
+            674.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 166,
+      "timestamp_ms": 5533.333333333333,
+      "inference_time_ms": 15.35,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.78
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.78,
+          "bbox": [
+            1128.9,
+            582.9,
+            1309.2,
+            678.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 167,
+      "timestamp_ms": 5566.666666666666,
+      "inference_time_ms": 15.39,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.781
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.781,
+          "bbox": [
+            1129.0,
+            583.0,
+            1309.3,
+            678.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 168,
+      "timestamp_ms": 5600.0,
+      "inference_time_ms": 24.09,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.786
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.786,
+          "bbox": [
+            1121.2,
+            580.5,
+            1300.7,
+            683.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 169,
+      "timestamp_ms": 5633.333333333334,
+      "inference_time_ms": 22.01,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.692
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.692,
+          "bbox": [
+            1104.1,
+            589.8,
+            1289.1,
+            683.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 170,
+      "timestamp_ms": 5666.666666666667,
+      "inference_time_ms": 18.43,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.762
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.762,
+          "bbox": [
+            1100.1,
+            588.5,
+            1284.7,
+            683.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 171,
+      "timestamp_ms": 5700.0,
+      "inference_time_ms": 16.65,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.751
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.751,
+          "bbox": [
+            1100.6,
+            587.8,
+            1284.5,
+            682.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 172,
+      "timestamp_ms": 5733.333333333333,
+      "inference_time_ms": 15.58,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.792
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.792,
+          "bbox": [
+            1103.5,
+            587.8,
+            1284.7,
+            682.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 173,
+      "timestamp_ms": 5766.666666666667,
+      "inference_time_ms": 15.32,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.79
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.79,
+          "bbox": [
+            1103.4,
+            587.6,
+            1284.8,
+            682.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 174,
+      "timestamp_ms": 5800.0,
+      "inference_time_ms": 15.64,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.746
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.746,
+          "bbox": [
+            1102.2,
+            587.9,
+            1284.5,
+            682.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 175,
+      "timestamp_ms": 5833.333333333333,
+      "inference_time_ms": 15.34,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.705
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.705,
+          "bbox": [
+            1103.1,
+            588.7,
+            1284.1,
+            681.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 176,
+      "timestamp_ms": 5866.666666666666,
+      "inference_time_ms": 15.34,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.765
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.765,
+          "bbox": [
+            1103.5,
+            587.3,
+            1284.6,
+            682.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 177,
+      "timestamp_ms": 5900.0,
+      "inference_time_ms": 17.24,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.739
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.739,
+          "bbox": [
+            1103.3,
+            587.2,
+            1284.7,
+            682.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 178,
+      "timestamp_ms": 5933.333333333334,
+      "inference_time_ms": 15.36,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.735
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.735,
+          "bbox": [
+            1102.9,
+            587.6,
+            1285.1,
+            682.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 179,
+      "timestamp_ms": 5966.666666666667,
+      "inference_time_ms": 22.3,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.732
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.732,
+          "bbox": [
+            1102.9,
+            587.7,
+            1285.5,
+            682.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 180,
+      "timestamp_ms": 6000.0,
+      "inference_time_ms": 22.45,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.748
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.748,
+          "bbox": [
+            1103.8,
+            588.1,
+            1286.4,
+            682.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 181,
+      "timestamp_ms": 6033.333333333333,
+      "inference_time_ms": 26.85,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.79
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.79,
+          "bbox": [
+            1104.4,
+            588.5,
+            1285.0,
+            682.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 182,
+      "timestamp_ms": 6066.666666666666,
+      "inference_time_ms": 16.51,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.798
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.798,
+          "bbox": [
+            1104.5,
+            589.1,
+            1284.7,
+            683.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 183,
+      "timestamp_ms": 6100.0,
+      "inference_time_ms": 30.44,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.818
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.818,
+          "bbox": [
+            1104.1,
+            588.7,
+            1284.7,
+            683.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 184,
+      "timestamp_ms": 6133.333333333334,
+      "inference_time_ms": 20.4,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.799
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.799,
+          "bbox": [
+            1102.9,
+            588.8,
+            1284.2,
+            683.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 185,
+      "timestamp_ms": 6166.666666666667,
+      "inference_time_ms": 18.36,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.798
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.798,
+          "bbox": [
+            1103.3,
+            589.0,
+            1284.3,
+            683.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 186,
+      "timestamp_ms": 6200.0,
+      "inference_time_ms": 15.85,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.843
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.843,
+          "bbox": [
+            1105.8,
+            588.7,
+            1284.6,
+            683.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 187,
+      "timestamp_ms": 6233.333333333333,
+      "inference_time_ms": 16.22,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.756
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.756,
+          "bbox": [
+            1103.1,
+            588.6,
+            1288.0,
+            682.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 188,
+      "timestamp_ms": 6266.666666666667,
+      "inference_time_ms": 17.8,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.77
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.77,
+          "bbox": [
+            1104.6,
+            588.5,
+            1287.8,
+            682.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 189,
+      "timestamp_ms": 6300.0,
+      "inference_time_ms": 15.75,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.787
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.787,
+          "bbox": [
+            1104.0,
+            588.9,
+            1288.0,
+            682.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 190,
+      "timestamp_ms": 6333.333333333333,
+      "inference_time_ms": 15.34,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.661
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.661,
+          "bbox": [
+            1109.5,
+            580.6,
+            1288.9,
+            683.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 191,
+      "timestamp_ms": 6366.666666666666,
+      "inference_time_ms": 27.22,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.703
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.703,
+          "bbox": [
+            1102.8,
+            587.9,
+            1286.6,
+            682.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 192,
+      "timestamp_ms": 6400.0,
+      "inference_time_ms": 18.92,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.707
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.707,
+          "bbox": [
+            1105.4,
+            583.1,
+            1284.3,
+            685.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 193,
+      "timestamp_ms": 6433.333333333334,
+      "inference_time_ms": 16.22,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.619
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.619,
+          "bbox": [
+            1097.3,
+            582.4,
+            1279.7,
+            687.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 194,
+      "timestamp_ms": 6466.666666666667,
+      "inference_time_ms": 15.95,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.839
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.839,
+          "bbox": [
+            1093.8,
+            585.8,
+            1267.5,
+            691.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 195,
+      "timestamp_ms": 6500.0,
+      "inference_time_ms": 15.75,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.584
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.584,
+          "bbox": [
+            1067.2,
+            579.3,
+            1266.1,
+            695.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 196,
+      "timestamp_ms": 6533.333333333333,
+      "inference_time_ms": 15.56,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.942
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.942,
+          "bbox": [
+            1065.5,
+            581.7,
+            1255.9,
+            700.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 197,
+      "timestamp_ms": 6566.666666666666,
+      "inference_time_ms": 28.82,
+      "num_detections": 1,
+      "class_counts": {
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.941
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.941,
+          "bbox": [
+            1065.3,
+            581.7,
+            1256.0,
+            700.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 198,
+      "timestamp_ms": 6600.0,
+      "inference_time_ms": 17.32,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.953,
+        "mailer": 0.709
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.953,
+          "bbox": [
+            1047.8,
+            596.4,
+            1236.2,
+            700.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.709,
+          "bbox": [
+            1295.9,
+            599.4,
+            1440.9,
+            635.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 199,
+      "timestamp_ms": 6633.333333333334,
+      "inference_time_ms": 15.53,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.93,
+        "mailer": 0.77
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.93,
+          "bbox": [
+            1026.6,
+            597.3,
+            1222.4,
+            700.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.77,
+          "bbox": [
+            1283.8,
+            601.5,
+            1438.7,
+            634.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 200,
+      "timestamp_ms": 6666.666666666667,
+      "inference_time_ms": 15.81,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.881,
+        "mailer": 0.807
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.881,
+          "bbox": [
+            1005.9,
+            600.6,
+            1211.1,
+            708.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.807,
+          "bbox": [
+            1277.6,
+            604.4,
+            1434.2,
+            637.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 201,
+      "timestamp_ms": 6700.0,
+      "inference_time_ms": 24.66,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.78,
+        "box": 0.397
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.78,
+          "bbox": [
+            1273.5,
+            605.2,
+            1429.0,
+            640.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.397,
+          "bbox": [
+            975.0,
+            598.2,
+            1222.3,
+            715.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 202,
+      "timestamp_ms": 6733.333333333333,
+      "inference_time_ms": 17.02,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.753
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.753,
+          "bbox": [
+            1262.9,
+            607.5,
+            1422.6,
+            641.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 203,
+      "timestamp_ms": 6766.666666666667,
+      "inference_time_ms": 15.94,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.752
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.752,
+          "bbox": [
+            1262.9,
+            607.5,
+            1422.6,
+            641.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 204,
+      "timestamp_ms": 6800.0,
+      "inference_time_ms": 15.64,
+      "num_detections": 3,
+      "class_counts": {
+        "mailer": 2,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.491,
+        "box": 0.436
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.696,
+          "bbox": [
+            1258.0,
+            606.8,
+            1413.3,
+            639.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.436,
+          "bbox": [
+            928.2,
+            606.6,
+            1164.1,
+            728.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.286,
+          "bbox": [
+            1271.3,
+            615.8,
+            1419.5,
+            658.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 205,
+      "timestamp_ms": 6833.333333333333,
+      "inference_time_ms": 15.65,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.764
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.764,
+          "bbox": [
+            1247.0,
+            611.1,
+            1410.0,
+            644.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 206,
+      "timestamp_ms": 6866.666666666666,
+      "inference_time_ms": 15.57,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.805,
+        "box": 0.476
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.805,
+          "bbox": [
+            1233.6,
+            612.7,
+            1402.4,
+            651.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.476,
+          "bbox": [
+            873.4,
+            624.7,
+            1105.3,
+            748.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 207,
+      "timestamp_ms": 6900.0,
+      "inference_time_ms": 15.4,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.806,
+        "mailer": 0.804
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.806,
+          "bbox": [
+            855.7,
+            633.3,
+            1093.2,
+            753.3
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.804,
+          "bbox": [
+            1227.3,
+            621.3,
+            1390.9,
+            663.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 208,
+      "timestamp_ms": 6933.333333333334,
+      "inference_time_ms": 15.47,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.808,
+        "box": 0.604
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.808,
+          "bbox": [
+            1212.8,
+            617.6,
+            1389.2,
+            661.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.604,
+          "bbox": [
+            827.9,
+            638.6,
+            1061.1,
+            760.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 209,
+      "timestamp_ms": 6966.666666666667,
+      "inference_time_ms": 17.65,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.809,
+        "box": 0.597
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.809,
+          "bbox": [
+            1212.8,
+            617.6,
+            1389.2,
+            661.6
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.597,
+          "bbox": [
+            827.9,
+            638.6,
+            1061.1,
+            760.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 210,
+      "timestamp_ms": 7000.0,
+      "inference_time_ms": 16.45,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.917,
+        "mailer": 0.829
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.917,
+          "bbox": [
+            774.9,
+            639.4,
+            1050.5,
+            774.4
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.829,
+          "bbox": [
+            1199.7,
+            620.3,
+            1380.1,
+            666.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 211,
+      "timestamp_ms": 7033.333333333333,
+      "inference_time_ms": 21.62,
+      "num_detections": 3,
+      "class_counts": {
+        "box": 1,
+        "mailer": 2
+      },
+      "avg_confidence_per_class": {
+        "box": 0.962,
+        "mailer": 0.566
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.962,
+          "bbox": [
+            755.8,
+            646.9,
+            1022.2,
+            782.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.837,
+          "bbox": [
+            1194.4,
+            628.7,
+            1373.8,
+            659.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.296,
+          "bbox": [
+            1206.2,
+            618.3,
+            1375.0,
+            677.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 212,
+      "timestamp_ms": 7066.666666666666,
+      "inference_time_ms": 17.13,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.936,
+        "mailer": 0.869
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.936,
+          "bbox": [
+            700.8,
+            652.1,
+            992.2,
+            794.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.869,
+          "bbox": [
+            1184.9,
+            623.4,
+            1370.5,
+            677.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 213,
+      "timestamp_ms": 7100.0,
+      "inference_time_ms": 16.31,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.952,
+        "mailer": 0.866
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.952,
+          "bbox": [
+            673.6,
+            644.8,
+            966.4,
+            807.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.866,
+          "bbox": [
+            1173.8,
+            627.5,
+            1362.8,
+            679.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 214,
+      "timestamp_ms": 7133.333333333334,
+      "inference_time_ms": 16.19,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.953,
+        "mailer": 0.886
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.953,
+          "bbox": [
+            635.4,
+            640.1,
+            945.8,
+            823.1
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.886,
+          "bbox": [
+            1162.9,
+            632.1,
+            1355.8,
+            680.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 215,
+      "timestamp_ms": 7166.666666666667,
+      "inference_time_ms": 17.52,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.962,
+        "mailer": 0.886
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.962,
+          "bbox": [
+            634.1,
+            643.7,
+            945.3,
+            821.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.886,
+          "bbox": [
+            1162.8,
+            632.1,
+            1355.8,
+            680.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 216,
+      "timestamp_ms": 7200.0,
+      "inference_time_ms": 16.65,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.942,
+        "mailer": 0.894
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.942,
+          "bbox": [
+            587.2,
+            653.6,
+            907.6,
+            827.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.894,
+          "bbox": [
+            1142.0,
+            634.8,
+            1346.9,
+            681.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 217,
+      "timestamp_ms": 7233.333333333333,
+      "inference_time_ms": 17.13,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.954,
+        "mailer": 0.883
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.954,
+          "bbox": [
+            535.0,
+            650.8,
+            906.3,
+            848.8
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.883,
+          "bbox": [
+            1127.9,
+            636.9,
+            1339.3,
+            682.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 218,
+      "timestamp_ms": 7266.666666666667,
+      "inference_time_ms": 15.68,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.912,
+        "box": 0.906
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.912,
+          "bbox": [
+            1120.8,
+            637.8,
+            1328.3,
+            693.0
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.906,
+          "bbox": [
+            491.1,
+            669.4,
+            832.7,
+            857.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 219,
+      "timestamp_ms": 7300.0,
+      "inference_time_ms": 15.56,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.943,
+        "mailer": 0.9
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.943,
+          "bbox": [
+            440.5,
+            666.5,
+            810.1,
+            868.7
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.9,
+          "bbox": [
+            1103.6,
+            637.9,
+            1319.1,
+            689.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 220,
+      "timestamp_ms": 7333.333333333333,
+      "inference_time_ms": 15.49,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.935,
+        "mailer": 0.886
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.935,
+          "bbox": [
+            396.9,
+            677.2,
+            774.8,
+            882.6
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.886,
+          "bbox": [
+            1104.0,
+            639.6,
+            1321.8,
+            694.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 221,
+      "timestamp_ms": 7366.666666666666,
+      "inference_time_ms": 21.2,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.934,
+        "mailer": 0.886
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.934,
+          "bbox": [
+            396.8,
+            677.1,
+            774.9,
+            882.5
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.886,
+          "bbox": [
+            1104.0,
+            639.6,
+            1321.8,
+            694.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 222,
+      "timestamp_ms": 7400.0,
+      "inference_time_ms": 17.13,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.897,
+        "box": 0.862
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.897,
+          "bbox": [
+            1102.1,
+            641.5,
+            1317.7,
+            696.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.862,
+          "bbox": [
+            335.3,
+            687.8,
+            718.7,
+            898.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 223,
+      "timestamp_ms": 7433.333333333334,
+      "inference_time_ms": 14.71,
+      "num_detections": 2,
+      "class_counts": {
+        "box": 1,
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "box": 0.899,
+        "mailer": 0.891
+      },
+      "detections": [
+        {
+          "class": "box",
+          "confidence": 0.899,
+          "bbox": [
+            293.0,
+            680.5,
+            679.1,
+            911.0
+          ]
+        },
+        {
+          "class": "mailer",
+          "confidence": 0.891,
+          "bbox": [
+            1094.9,
+            641.0,
+            1312.4,
+            692.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 224,
+      "timestamp_ms": 7466.666666666667,
+      "inference_time_ms": 17.05,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.89,
+        "box": 0.838
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.89,
+          "bbox": [
+            1093.6,
+            641.9,
+            1311.9,
+            692.4
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.838,
+          "bbox": [
+            221.0,
+            666.9,
+            626.8,
+            933.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 225,
+      "timestamp_ms": 7500.0,
+      "inference_time_ms": 15.77,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.888,
+        "box": 0.278
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.888,
+          "bbox": [
+            1094.1,
+            642.3,
+            1311.6,
+            692.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.278,
+          "bbox": [
+            129.1,
+            627.5,
+            591.2,
+            957.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 226,
+      "timestamp_ms": 7533.333333333333,
+      "inference_time_ms": 15.49,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.881,
+        "box": 0.341
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.881,
+          "bbox": [
+            1094.9,
+            642.3,
+            1313.1,
+            692.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.341,
+          "bbox": [
+            96.3,
+            641.9,
+            555.2,
+            984.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 227,
+      "timestamp_ms": 7566.666666666666,
+      "inference_time_ms": 15.83,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.882,
+        "box": 0.348
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.882,
+          "bbox": [
+            1094.9,
+            642.2,
+            1313.1,
+            692.5
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.348,
+          "bbox": [
+            96.1,
+            642.5,
+            555.6,
+            984.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 228,
+      "timestamp_ms": 7600.0,
+      "inference_time_ms": 15.83,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.885,
+        "box": 0.362
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.885,
+          "bbox": [
+            1095.8,
+            641.6,
+            1313.8,
+            692.1
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.362,
+          "bbox": [
+            37.6,
+            673.7,
+            456.4,
+            980.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 229,
+      "timestamp_ms": 7633.333333333334,
+      "inference_time_ms": 16.68,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.887,
+        "box": 0.286
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.887,
+          "bbox": [
+            1096.2,
+            642.0,
+            1315.2,
+            692.3
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.286,
+          "bbox": [
+            0.0,
+            687.6,
+            420.8,
+            999.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 230,
+      "timestamp_ms": 7666.666666666667,
+      "inference_time_ms": 15.44,
+      "num_detections": 1,
+      "class_counts": {
+        "mailer": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.891
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.891,
+          "bbox": [
+            1096.1,
+            641.4,
+            1316.5,
+            692.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 231,
+      "timestamp_ms": 7700.0,
+      "inference_time_ms": 15.94,
+      "num_detections": 2,
+      "class_counts": {
+        "mailer": 1,
+        "box": 1
+      },
+      "avg_confidence_per_class": {
+        "mailer": 0.891,
+        "box": 0.695
+      },
+      "detections": [
+        {
+          "class": "mailer",
+          "confidence": 0.891,
+          "bbox": [
+            1097.7,
+            643.3,
+            1316.8,
+            690.2
+          ]
+        },
+        {
+          "class": "box",
+          "confidence": 0.695,
+          "bbox": [
+            0.0,
+            698.5,
+            282.2,
+            1014.5
+          ]
+        }
+      ]
+    }
+  ],
+  "aggregate_stats": {
+    "total_detections": 373,
+    "class_distribution": {
+      "mailer": 191,
+      "box": 182
+    },
+    "avg_confidence_per_class": {
+      "mailer": 0.767,
+      "box": 0.768
+    },
+    "detection_density_per_frame": 1.61
+  }
+}
