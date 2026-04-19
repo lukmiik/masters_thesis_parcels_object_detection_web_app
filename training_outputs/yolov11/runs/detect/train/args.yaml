@@ -1,7 +1,7 @@
 task: detect
 mode: train
-model: /home/lukmik/Desktop/university/masters_thesis/masters_app_demo/weights/yolo11n.pt
-data: /home/lukmik/Desktop/university/masters_thesis/masters_app_demo/datasets/yolov11/data.yaml
+model: /home/lukmik/Desktop/university/masters_thesis/final_app/weights/yolo11s.pt
+data: /home/lukmik/Desktop/university/masters_thesis/final_app/datasets/yolov11/data.yaml
 epochs: 12
 time: null
 patience: 100
@@ -12,7 +12,7 @@ save_period: -1
 cache: false
 device: null
 workers: 8
-project: /home/lukmik/Desktop/university/masters_thesis/masters_app_demo/training_outputs/yolov11
+project: /home/lukmik/Desktop/university/masters_thesis/final_app/training_outputs/yolov11
 name: train
 exist_ok: true
 pretrained: true
@@ -105,4 +105,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: /home/lukmik/Desktop/university/masters_thesis/masters_app_demo/training_outputs/yolov11/runs/detect/train
+save_dir: /home/lukmik/Desktop/university/masters_thesis/final_app/training_outputs/yolov11/runs/detect/train
