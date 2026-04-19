@@ -84,6 +84,7 @@ def run_single_job(
     video_name: str,
     video_path: Path,
     confidence: float,
+    device: str,
     roi_data: dict[str, list[list[int]]],
 ) -> JobResult:
     output_video = (
@@ -102,6 +103,7 @@ def run_single_job(
         detector = get_detector(
             model_type,
             "package_sorting",
+            device=device,
             confidence=confidence,
         )
 
@@ -215,6 +217,12 @@ def main() -> None:
             step=0.05,
         )
 
+        device = st.selectbox(
+            "Device",
+            options=["auto", "cpu", "cuda"],
+            index=0,
+        )
+
     LABELED_VIDEOS_DIR.mkdir(parents=True, exist_ok=True)
     METRICS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -276,6 +284,7 @@ def main() -> None:
                 video_name=job[2],
                 video_path=job[3],
                 confidence=confidence,
+                device=device,
                 roi_data=roi_data,
             )
             results.append(result)
