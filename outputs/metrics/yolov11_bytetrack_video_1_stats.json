@@ -6,14 +6,14 @@
   "output_file": "yolov11_bytetrack_video_1.mp4",
   "total_frames": 92,
   "video_fps": 30.0,
-  "avg_inference_fps": 173.01,
-  "processing_time_seconds": 1.89,
-  "avg_inference_time_ms": 5.78,
+  "avg_inference_fps": 160.51,
+  "processing_time_seconds": 1.79,
+  "avg_inference_time_ms": 6.23,
   "per_frame_stats": [
     {
       "frame_id": 0,
       "timestamp_ms": 0.0,
-      "inference_time_ms": 23.48,
+      "inference_time_ms": 26.43,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -22,7 +22,7 @@
     {
       "frame_id": 1,
       "timestamp_ms": 33.333333333333336,
-      "inference_time_ms": 5.05,
+      "inference_time_ms": 5.11,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -31,7 +31,7 @@
     {
       "frame_id": 2,
       "timestamp_ms": 66.66666666666667,
-      "inference_time_ms": 5.39,
+      "inference_time_ms": 5.27,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -40,7 +40,7 @@
     {
       "frame_id": 3,
       "timestamp_ms": 100.0,
-      "inference_time_ms": 5.21,
+      "inference_time_ms": 5.36,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -49,7 +49,7 @@
     {
       "frame_id": 4,
       "timestamp_ms": 133.33333333333334,
-      "inference_time_ms": 5.32,
+      "inference_time_ms": 5.45,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -58,7 +58,7 @@
     {
       "frame_id": 5,
       "timestamp_ms": 166.66666666666666,
-      "inference_time_ms": 5.63,
+      "inference_time_ms": 5.34,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -67,7 +67,7 @@
     {
       "frame_id": 6,
       "timestamp_ms": 200.0,
-      "inference_time_ms": 5.52,
+      "inference_time_ms": 5.24,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -76,7 +76,7 @@
     {
       "frame_id": 7,
       "timestamp_ms": 233.33333333333334,
-      "inference_time_ms": 5.46,
+      "inference_time_ms": 5.23,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -85,7 +85,7 @@
     {
       "frame_id": 8,
       "timestamp_ms": 266.6666666666667,
-      "inference_time_ms": 5.65,
+      "inference_time_ms": 5.46,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -94,7 +94,7 @@
     {
       "frame_id": 9,
       "timestamp_ms": 300.0,
-      "inference_time_ms": 5.4,
+      "inference_time_ms": 5.52,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -103,7 +103,7 @@
     {
       "frame_id": 10,
       "timestamp_ms": 333.3333333333333,
-      "inference_time_ms": 5.28,
+      "inference_time_ms": 5.3,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -112,7 +112,7 @@
     {
       "frame_id": 11,
       "timestamp_ms": 366.66666666666663,
-      "inference_time_ms": 5.29,
+      "inference_time_ms": 5.5,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -121,7 +121,7 @@
     {
       "frame_id": 12,
       "timestamp_ms": 400.0,
-      "inference_time_ms": 5.27,
+      "inference_time_ms": 5.16,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -130,7 +130,7 @@
     {
       "frame_id": 13,
       "timestamp_ms": 433.33333333333337,
-      "inference_time_ms": 5.11,
+      "inference_time_ms": 5.21,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -139,7 +139,7 @@
     {
       "frame_id": 14,
       "timestamp_ms": 466.6666666666667,
-      "inference_time_ms": 5.2,
+      "inference_time_ms": 5.51,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -148,7 +148,7 @@
     {
       "frame_id": 15,
       "timestamp_ms": 500.0,
-      "inference_time_ms": 5.15,
+      "inference_time_ms": 5.6,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -157,7 +157,7 @@
     {
       "frame_id": 16,
       "timestamp_ms": 533.3333333333334,
-      "inference_time_ms": 5.18,
+      "inference_time_ms": 5.23,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -166,7 +166,7 @@
     {
       "frame_id": 17,
       "timestamp_ms": 566.6666666666666,
-      "inference_time_ms": 5.36,
+      "inference_time_ms": 5.77,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -175,7 +175,7 @@
     {
       "frame_id": 18,
       "timestamp_ms": 600.0,
-      "inference_time_ms": 5.48,
+      "inference_time_ms": 5.49,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -184,7 +184,7 @@
     {
       "frame_id": 19,
       "timestamp_ms": 633.3333333333333,
-      "inference_time_ms": 5.25,
+      "inference_time_ms": 5.33,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -193,7 +193,7 @@
     {
       "frame_id": 20,
       "timestamp_ms": 666.6666666666666,
-      "inference_time_ms": 5.4,
+      "inference_time_ms": 5.65,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -202,7 +202,7 @@
     {
       "frame_id": 21,
       "timestamp_ms": 700.0,
-      "inference_time_ms": 5.13,
+      "inference_time_ms": 5.64,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -211,7 +211,7 @@
     {
       "frame_id": 22,
       "timestamp_ms": 733.3333333333333,
-      "inference_time_ms": 5.23,
+      "inference_time_ms": 5.81,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -235,7 +235,7 @@
     {
       "frame_id": 23,
       "timestamp_ms": 766.6666666666667,
-      "inference_time_ms": 5.4,
+      "inference_time_ms": 5.27,
       "num_detections": 1,
       "class_counts": {
         "mailer": 1
@@ -259,7 +259,7 @@
     {
       "frame_id": 24,
       "timestamp_ms": 800.0,
-      "inference_time_ms": 5.59,
+      "inference_time_ms": 5.58,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -283,7 +283,7 @@
     {
       "frame_id": 25,
       "timestamp_ms": 833.3333333333334,
-      "inference_time_ms": 5.14,
+      "inference_time_ms": 5.57,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -307,7 +307,7 @@
     {
       "frame_id": 26,
       "timestamp_ms": 866.6666666666667,
-      "inference_time_ms": 5.5,
+      "inference_time_ms": 5.31,
       "num_detections": 1,
       "class_counts": {
         "mailer": 1
@@ -331,7 +331,7 @@
     {
       "frame_id": 27,
       "timestamp_ms": 900.0,
-      "inference_time_ms": 5.19,
+      "inference_time_ms": 5.73,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -355,7 +355,7 @@
     {
       "frame_id": 28,
       "timestamp_ms": 933.3333333333334,
-      "inference_time_ms": 5.54,
+      "inference_time_ms": 5.75,
       "num_detections": 1,
       "class_counts": {
         "mailer": 1
@@ -379,7 +379,7 @@
     {
       "frame_id": 29,
       "timestamp_ms": 966.6666666666666,
-      "inference_time_ms": 5.36,
+      "inference_time_ms": 10.48,
       "num_detections": 1,
       "class_counts": {
         "mailer": 1
@@ -403,7 +403,7 @@
     {
       "frame_id": 30,
       "timestamp_ms": 1000.0,
-      "inference_time_ms": 5.13,
+      "inference_time_ms": 5.75,
       "num_detections": 1,
       "class_counts": {
         "mailer": 1
@@ -427,7 +427,7 @@
     {
       "frame_id": 31,
       "timestamp_ms": 1033.3333333333335,
-      "inference_time_ms": 5.2,
+      "inference_time_ms": 5.56,
       "num_detections": 1,
       "class_counts": {
         "mailer": 1
@@ -451,7 +451,7 @@
     {
       "frame_id": 32,
       "timestamp_ms": 1066.6666666666667,
-      "inference_time_ms": 5.44,
+      "inference_time_ms": 5.45,
       "num_detections": 1,
       "class_counts": {
         "mailer": 1
@@ -475,7 +475,7 @@
     {
       "frame_id": 33,
       "timestamp_ms": 1100.0,
-      "inference_time_ms": 5.47,
+      "inference_time_ms": 7.76,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -499,7 +499,7 @@
     {
       "frame_id": 34,
       "timestamp_ms": 1133.3333333333333,
-      "inference_time_ms": 5.2,
+      "inference_time_ms": 5.73,
       "num_detections": 0,
       "class_counts": {},
       "avg_confidence_per_class": {},
@@ -508,7 +508,7 @@
     {
       "frame_id": 35,
       "timestamp_ms": 1166.6666666666667,
-      "inference_time_ms": 5.42,
+      "inference_time_ms": 7.22,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -542,7 +542,7 @@
     {
       "frame_id": 36,
       "timestamp_ms": 1200.0,
-      "inference_time_ms": 5.34,
+      "inference_time_ms": 7.8,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -576,7 +576,7 @@
     {
       "frame_id": 37,
       "timestamp_ms": 1233.3333333333335,
-      "inference_time_ms": 5.44,
+      "inference_time_ms": 5.9,
       "num_detections": 3,
       "class_counts": {
         "box": 3
@@ -620,7 +620,7 @@
     {
       "frame_id": 38,
       "timestamp_ms": 1266.6666666666665,
-      "inference_time_ms": 5.51,
+      "inference_time_ms": 5.99,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -654,7 +654,7 @@
     {
       "frame_id": 39,
       "timestamp_ms": 1300.0,
-      "inference_time_ms": 5.21,
+      "inference_time_ms": 5.79,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -688,7 +688,7 @@
     {
       "frame_id": 40,
       "timestamp_ms": 1333.3333333333333,
-      "inference_time_ms": 5.23,
+      "inference_time_ms": 5.69,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -722,7 +722,7 @@
     {
       "frame_id": 41,
       "timestamp_ms": 1366.6666666666667,
-      "inference_time_ms": 5.29,
+      "inference_time_ms": 5.65,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -756,7 +756,7 @@
     {
       "frame_id": 42,
       "timestamp_ms": 1400.0,
-      "inference_time_ms": 5.47,
+      "inference_time_ms": 6.03,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -790,7 +790,7 @@
     {
       "frame_id": 43,
       "timestamp_ms": 1433.3333333333333,
-      "inference_time_ms": 5.31,
+      "inference_time_ms": 5.82,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -824,7 +824,7 @@
     {
       "frame_id": 44,
       "timestamp_ms": 1466.6666666666665,
-      "inference_time_ms": 5.21,
+      "inference_time_ms": 5.96,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -848,7 +848,7 @@
     {
       "frame_id": 45,
       "timestamp_ms": 1500.0,
-      "inference_time_ms": 5.4,
+      "inference_time_ms": 7.58,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -882,7 +882,7 @@
     {
       "frame_id": 46,
       "timestamp_ms": 1533.3333333333335,
-      "inference_time_ms": 5.3,
+      "inference_time_ms": 6.48,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -906,7 +906,7 @@
     {
       "frame_id": 47,
       "timestamp_ms": 1566.6666666666667,
-      "inference_time_ms": 5.42,
+      "inference_time_ms": 6.45,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -930,7 +930,7 @@
     {
       "frame_id": 48,
       "timestamp_ms": 1600.0,
-      "inference_time_ms": 5.39,
+      "inference_time_ms": 6.26,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -954,7 +954,7 @@
     {
       "frame_id": 49,
       "timestamp_ms": 1633.3333333333333,
-      "inference_time_ms": 6.27,
+      "inference_time_ms": 6.03,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -978,7 +978,7 @@
     {
       "frame_id": 50,
       "timestamp_ms": 1666.6666666666667,
-      "inference_time_ms": 5.22,
+      "inference_time_ms": 5.53,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1002,7 +1002,7 @@
     {
       "frame_id": 51,
       "timestamp_ms": 1700.0,
-      "inference_time_ms": 5.14,
+      "inference_time_ms": 5.39,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1026,7 +1026,7 @@
     {
       "frame_id": 52,
       "timestamp_ms": 1733.3333333333335,
-      "inference_time_ms": 5.11,
+      "inference_time_ms": 5.49,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1050,7 +1050,7 @@
     {
       "frame_id": 53,
       "timestamp_ms": 1766.6666666666665,
-      "inference_time_ms": 5.14,
+      "inference_time_ms": 5.32,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1074,7 +1074,7 @@
     {
       "frame_id": 54,
       "timestamp_ms": 1800.0,
-      "inference_time_ms": 5.12,
+      "inference_time_ms": 5.41,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1098,7 +1098,7 @@
     {
       "frame_id": 55,
       "timestamp_ms": 1833.3333333333333,
-      "inference_time_ms": 5.23,
+      "inference_time_ms": 6.09,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1122,7 +1122,7 @@
     {
       "frame_id": 56,
       "timestamp_ms": 1866.6666666666667,
-      "inference_time_ms": 5.1,
+      "inference_time_ms": 6.48,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1146,7 +1146,7 @@
     {
       "frame_id": 57,
       "timestamp_ms": 1900.0,
-      "inference_time_ms": 5.13,
+      "inference_time_ms": 5.38,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -1180,7 +1180,7 @@
     {
       "frame_id": 58,
       "timestamp_ms": 1933.3333333333333,
-      "inference_time_ms": 5.25,
+      "inference_time_ms": 5.55,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1204,7 +1204,7 @@
     {
       "frame_id": 59,
       "timestamp_ms": 1966.6666666666665,
-      "inference_time_ms": 5.27,
+      "inference_time_ms": 5.47,
       "num_detections": 2,
       "class_counts": {
         "box": 2
@@ -1238,7 +1238,7 @@
     {
       "frame_id": 60,
       "timestamp_ms": 2000.0,
-      "inference_time_ms": 5.12,
+      "inference_time_ms": 5.89,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1262,7 +1262,7 @@
     {
       "frame_id": 61,
       "timestamp_ms": 2033.3333333333333,
-      "inference_time_ms": 5.34,
+      "inference_time_ms": 6.61,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1286,7 +1286,7 @@
     {
       "frame_id": 62,
       "timestamp_ms": 2066.666666666667,
-      "inference_time_ms": 5.21,
+      "inference_time_ms": 5.84,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1310,7 +1310,7 @@
     {
       "frame_id": 63,
       "timestamp_ms": 2100.0,
-      "inference_time_ms": 5.29,
+      "inference_time_ms": 5.2,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1334,7 +1334,7 @@
     {
       "frame_id": 64,
       "timestamp_ms": 2133.3333333333335,
-      "inference_time_ms": 5.12,
+      "inference_time_ms": 5.41,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1358,7 +1358,7 @@
     {
       "frame_id": 65,
       "timestamp_ms": 2166.6666666666665,
-      "inference_time_ms": 5.26,
+      "inference_time_ms": 5.47,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1382,7 +1382,7 @@
     {
       "frame_id": 66,
       "timestamp_ms": 2200.0,
-      "inference_time_ms": 5.21,
+      "inference_time_ms": 5.65,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1418,7 +1418,7 @@
     {
       "frame_id": 67,
       "timestamp_ms": 2233.3333333333335,
-      "inference_time_ms": 5.32,
+      "inference_time_ms": 6.04,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1454,7 +1454,7 @@
     {
       "frame_id": 68,
       "timestamp_ms": 2266.6666666666665,
-      "inference_time_ms": 5.28,
+      "inference_time_ms": 5.94,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1478,7 +1478,7 @@
     {
       "frame_id": 69,
       "timestamp_ms": 2300.0,
-      "inference_time_ms": 5.34,
+      "inference_time_ms": 5.39,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1502,7 +1502,7 @@
     {
       "frame_id": 70,
       "timestamp_ms": 2333.3333333333335,
-      "inference_time_ms": 5.67,
+      "inference_time_ms": 5.36,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1526,7 +1526,7 @@
     {
       "frame_id": 71,
       "timestamp_ms": 2366.6666666666665,
-      "inference_time_ms": 6.43,
+      "inference_time_ms": 6.25,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1550,7 +1550,7 @@
     {
       "frame_id": 72,
       "timestamp_ms": 2400.0,
-      "inference_time_ms": 11.16,
+      "inference_time_ms": 6.05,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1574,7 +1574,7 @@
     {
       "frame_id": 73,
       "timestamp_ms": 2433.333333333333,
-      "inference_time_ms": 6.85,
+      "inference_time_ms": 6.27,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1598,7 +1598,7 @@
     {
       "frame_id": 74,
       "timestamp_ms": 2466.666666666667,
-      "inference_time_ms": 5.26,
+      "inference_time_ms": 7.87,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1622,7 +1622,7 @@
     {
       "frame_id": 75,
       "timestamp_ms": 2500.0,
-      "inference_time_ms": 5.13,
+      "inference_time_ms": 5.39,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1646,7 +1646,7 @@
     {
       "frame_id": 76,
       "timestamp_ms": 2533.333333333333,
-      "inference_time_ms": 5.38,
+      "inference_time_ms": 5.84,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1682,7 +1682,7 @@
     {
       "frame_id": 77,
       "timestamp_ms": 2566.666666666667,
-      "inference_time_ms": 6.08,
+      "inference_time_ms": 6.17,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1718,7 +1718,7 @@
     {
       "frame_id": 78,
       "timestamp_ms": 2600.0,
-      "inference_time_ms": 5.58,
+      "inference_time_ms": 5.57,
       "num_detections": 3,
       "class_counts": {
         "box": 1,
@@ -1764,7 +1764,7 @@
     {
       "frame_id": 79,
       "timestamp_ms": 2633.3333333333335,
-      "inference_time_ms": 6.12,
+      "inference_time_ms": 5.75,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1800,7 +1800,7 @@
     {
       "frame_id": 80,
       "timestamp_ms": 2666.6666666666665,
-      "inference_time_ms": 8.33,
+      "inference_time_ms": 5.52,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1836,7 +1836,7 @@
     {
       "frame_id": 81,
       "timestamp_ms": 2700.0,
-      "inference_time_ms": 5.57,
+      "inference_time_ms": 5.69,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1872,7 +1872,7 @@
     {
       "frame_id": 82,
       "timestamp_ms": 2733.3333333333335,
-      "inference_time_ms": 6.21,
+      "inference_time_ms": 9.76,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -1896,7 +1896,7 @@
     {
       "frame_id": 83,
       "timestamp_ms": 2766.6666666666665,
-      "inference_time_ms": 5.99,
+      "inference_time_ms": 13.84,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1932,7 +1932,7 @@
     {
       "frame_id": 84,
       "timestamp_ms": 2800.0,
-      "inference_time_ms": 7.68,
+      "inference_time_ms": 6.12,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -1968,7 +1968,7 @@
     {
       "frame_id": 85,
       "timestamp_ms": 2833.3333333333335,
-      "inference_time_ms": 9.15,
+      "inference_time_ms": 5.77,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -2004,7 +2004,7 @@
     {
       "frame_id": 86,
       "timestamp_ms": 2866.6666666666665,
-      "inference_time_ms": 5.21,
+      "inference_time_ms": 7.0,
       "num_detections": 1,
       "class_counts": {
         "box": 1
@@ -2028,7 +2028,7 @@
     {
       "frame_id": 87,
       "timestamp_ms": 2900.0,
-      "inference_time_ms": 5.33,
+      "inference_time_ms": 5.94,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -2064,7 +2064,7 @@
     {
       "frame_id": 88,
       "timestamp_ms": 2933.333333333333,
-      "inference_time_ms": 6.7,
+      "inference_time_ms": 5.65,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -2100,7 +2100,7 @@
     {
       "frame_id": 89,
       "timestamp_ms": 2966.666666666667,
-      "inference_time_ms": 7.24,
+      "inference_time_ms": 5.81,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -2136,7 +2136,7 @@
     {
       "frame_id": 90,
       "timestamp_ms": 3000.0,
-      "inference_time_ms": 5.17,
+      "inference_time_ms": 5.58,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
@@ -2172,7 +2172,7 @@
     {
       "frame_id": 91,
       "timestamp_ms": 3033.333333333333,
-      "inference_time_ms": 5.22,
+      "inference_time_ms": 8.57,
       "num_detections": 2,
       "class_counts": {
         "box": 1,
