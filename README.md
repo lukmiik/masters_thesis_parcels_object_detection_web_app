@@ -9,6 +9,12 @@ on
 the [Roboflow Mailers and Boxes dataset](https://app.roboflow.com/lukmik-e4qay/mailers-and-boxes-v10),
 which contains images of small and big packages for mail sorting applications.
 
+## Demo
+
+https://github.com/user-attachments/assets/7c671bc4-d8fb-4207-86b7-91272257e3f9
+
+The application demo video is also available locally in the repository as [`demo.mp4`](demo.mp4).
+
 ## Features
 
 - **Model Comparison**: Compare detection results across multiple models side-by-side
@@ -96,6 +102,7 @@ masters_app_demo/
 │   └── train_faster_rcnn.ipynb
 ├── input_videos/            # Input video directory
 ├── outputs/                 # Output directory
+├── demo.mp4                 # Application demo video
 ├── pyproject.toml           # Project configuration
 └── README.md                # This file
 ```
